@@ -1,0 +1,1001 @@
+tconst,titleType,primaryTitle,originalTitle,isAdult,startYear,endYear,runtimeMinutes,genres,averageRating,numVotes,decade,rating_tier,runtime_bucket,is_high_rated,vote_tier
+tt2308725,movie,Helpless,Hoa-cha,0,2012.0,,117.0,"Drama,Mystery,Thriller",6.7,2839,2010,average,standard,0,known
+tt0148754,movie,The Decline and Fall of Lacey Bodine,The Decline and Fall of Lacey Bodine,1,1975.0,,65.0,"Adult,Drama",5.1,19,1970,average,short,0,obscure
+tt2063704,movie,La Estrella,La Estrella,0,2013.0,,95.0,"Comedy,Drama,Romance",5.3,170,2010,average,standard,0,obscure
+tt0007984,movie,Earth's Man,A föld embere,0,1917.0,,,Drama,4.0,29,1910,poor,,0,obscure
+tt0056208,movie,Madame,Madame Sans Gêne,0,1961.0,,98.0,"Comedy,Drama,Romance",6.0,518,1960,average,standard,0,obscure
+tt11261820,movie,Tahara,Tahara,0,2020.0,,78.0,Drama,5.9,458,2020,average,short,0,obscure
+tt6197972,movie,Meeting Jim,Meeting Jim,0,2018.0,,75.0,Documentary,7.7,300,2010,good,short,1,obscure
+tt3400058,movie,The Shelter,The Shelter,0,2015.0,,76.0,"Drama,Horror,Thriller",3.5,445,2010,poor,short,0,obscure
+tt8007272,movie,Mera ur kärlekens språk,Mera ur kärlekens språk,0,2009.0,,180.0,Drama,4.1,16,2000,poor,long,0,obscure
+tt0140144,movie,Her Odd Tastes,Her Odd Tastes,0,1969.0,,72.0,"Adventure,Comedy,Drama",5.0,94,1960,poor,short,0,obscure
+tt6603662,movie,English vs English,English vs English,0,2016.0,,116.0,Thriller,7.5,23,2010,good,standard,1,obscure
+tt2408006,movie,The Talk,Razgovor,0,2011.0,,80.0,Drama,4.7,66,2010,poor,short,0,obscure
+tt10693090,movie,Sunken Eldorado: The New Underwater Gold Rush?,Sunken Eldorado: The New Underwater Gold Rush?,0,2019.0,,52.0,Documentary,6.0,14,2010,average,short,0,obscure
+tt11942126,movie,007: Shadows,Shadows,0,2020.0,,96.0,"Action,Thriller",8.2,29,2020,excellent,standard,1,obscure
+tt0061403,movie,Bike Boy,Bike Boy,0,1967.0,,96.0,Drama,6.6,131,1960,average,standard,0,obscure
+tt0271475,movie,Les eaux dormantes,Les eaux dormantes,0,1992.0,,96.0,"Crime,Drama,Mystery",5.0,36,1990,poor,standard,0,obscure
+tt0099424,movie,Return to Action,Dip huet fung wan,0,1990.0,,,"Action,Crime,Drama",5.9,25,1990,average,,0,obscure
+tt1116935,movie,When They Cry,Higurashi no naku koro ni,0,2008.0,,105.0,"Drama,Horror,Mystery",5.4,463,2000,average,standard,0,obscure
+tt5333700,movie,Red Net,Red Net,0,2016.0,,70.0,Thriller,3.2,40,2010,poor,short,0,obscure
+tt20415188,movie,A Lucky Man,Bamse,0,2022.0,,92.0,"Biography,Drama,Music",7.2,1321,2020,good,standard,1,known
+tt13049760,movie,The Last Matinee,Al morir la matinée,0,2020.0,,88.0,"Horror,Thriller",5.8,2858,2020,average,short,0,known
+tt0122761,movie,Tordenskjold går i land,Tordenskjold går i land,0,1942.0,,91.0,Drama,5.2,21,1940,average,standard,0,obscure
+tt2412550,movie,Colors,Cores,0,2012.0,,95.0,Drama,6.0,78,2010,average,standard,0,obscure
+tt3671534,movie,Chithirayil Nilachoru,Chithirayil Nilachoru,0,2013.0,,,Drama,5.1,17,2010,average,,0,obscure
+tt31723358,movie,Tell Me What You Want,Pídeme lo que quieras,0,2024.0,,114.0,"Drama,Romance,Thriller",4.0,2245,2020,poor,standard,0,known
+tt0156511,movie,En bordée,En bordée,0,1958.0,,85.0,Comedy,4.4,12,1950,poor,short,0,obscure
+tt0076121,movie,The Garden,Ha-Gan,0,1977.0,,90.0,Drama,5.5,134,1970,average,short,0,obscure
+tt0029201,movie,The Man Who Could Work Miracles,The Man Who Could Work Miracles,0,1936.0,,82.0,"Comedy,Family,Fantasy",6.9,1755,1930,average,short,0,known
+tt1390466,movie,Moving Adult Cats,Att flytta vuxna katter,0,2005.0,,58.0,Documentary,7.6,11,2000,good,short,1,obscure
+tt7088344,movie,American Socialist: The Life and Times of Eugene Victor Debs,American Socialist: The Life and Times of Eugene Victor Debs,0,2017.0,,97.0,Documentary,7.0,60,2010,average,standard,1,obscure
+tt0102630,movie,Ett paradis utan biljard,Ett paradis utan biljard,0,1991.0,,113.0,Comedy,5.8,38,1990,average,standard,0,obscure
+tt7087942,movie,Yaanum Theeyavan,Yaanum Theeyavan,0,2017.0,,106.0,"Action,Crime",5.9,75,2010,average,standard,0,obscure
+tt3559202,movie,Tiempo sin aire,Tiempo sin aire,0,2015.0,,106.0,Drama,6.2,395,2010,average,standard,0,obscure
+tt9138804,movie,Morbid Colors,Morbid Colors,0,2021.0,,105.0,"Drama,Horror,Thriller",5.0,81,2020,poor,standard,0,obscure
+tt31418588,movie,Ayane,Ayane,0,2023.0,,,,5.6,12,2020,average,,0,obscure
+tt9061308,movie,Opening the Mind,Opening the Mind,0,2019.0,,115.0,Horror,6.6,25,2010,average,standard,0,obscure
+tt5684312,movie,Flesh and Blood a Go! Go!,Flesh and Blood a Go! Go!,0,2017.0,,,"Drama,Horror",8.4,18,2010,excellent,,1,obscure
+tt0425558,movie,Tre,Tre,0,2006.0,,87.0,"Drama,Romance",4.7,212,2000,poor,short,0,obscure
+tt26344862,movie,Dr. Tony Fauci,Dr. Tony Fauci,0,2023.0,,115.0,Documentary,6.9,24,2020,average,standard,0,obscure
+tt0070050,movie,Falamos de Rio de Onor,Falamos de Rio de Onor,0,1973.0,,60.0,Documentary,7.0,14,1970,average,short,1,obscure
+tt3106750,movie,The Glass House,The Glass House,0,2014.0,,95.0,"Drama,Romance,Thriller",7.0,23,2010,average,standard,1,obscure
+tt0280855,movie,"Lachine, the People's Hope",Lachine,0,1938.0,,98.0,"Drama,Romance",6.5,73,1930,average,standard,0,obscure
+tt5816044,movie,Over Water,Spunti na vode,0,2017.0,,83.0,"Comedy,Family",5.8,210,2010,average,short,0,obscure
+tt0028023,movie,Navy Born,Navy Born,0,1936.0,,68.0,"Drama,Romance",4.9,78,1930,poor,short,0,obscure
+tt5092380,movie,A Breath Away,Dans la brume,0,2018.0,,89.0,"Action,Drama,Mystery",5.9,8306,2010,average,short,0,known
+tt2194661,movie,Secret Societies,Secret Societies,0,2007.0,,60.0,"Documentary,History",5.1,51,2000,average,short,0,obscure
+tt7604948,movie,Gutterbug,Gutterbug,0,2019.0,,101.0,"Crime,Drama",6.2,2918,2010,average,standard,0,known
+tt0132378,movie,Olsen-banden tar gull,Olsen-banden tar gull,0,1972.0,,94.0,"Comedy,Crime,Family",6.8,1207,1970,average,standard,0,known
+tt6079516,movie,I See You,I See You,0,2019.0,,98.0,"Horror,Mystery,Thriller",6.8,75121,2010,average,standard,0,popular
+tt0261512,movie,The Absolutely Outrageous Adventures of the Politically Incorrect Bikini Babes of Arizona,The Absolutely Outrageous Adventures of the Politically Incorrect Bikini Babes of Arizona,0,1997.0,,,Animation,5.9,18,1990,average,,0,obscure
+tt5920318,movie,Melancholy Is a Movement,Melancholy Is a Movement,0,2015.0,,75.0,Drama,6.1,33,2010,average,short,0,obscure
+tt1558877,movie,Vavien,Vavien,0,2009.0,,100.0,"Comedy,Drama,Thriller",7.5,14680,2000,good,standard,1,popular
+tt5354848,movie,The Blue Triangle,Mosallas-e abi,0,2000.0,,,"Drama,Sport",9.1,92,2000,excellent,,1,obscure
+tt0350945,movie,"Fluffy Cumsalot, Porn Star","Fluffy Cumsalot, Porn Star",0,2003.0,,57.0,Documentary,4.7,339,2000,poor,short,0,obscure
+tt0422446,movie,The Sparrow in the Pumpkin,Hyotan suzume,0,1959.0,,55.0,"Animation,Drama,Family",5.5,22,1950,average,short,0,obscure
+tt0318605,movie,Rajavin Parvaiyile,Raajavin Paarvayile,0,1995.0,,135.0,"Drama,Romance",7.0,1198,1990,average,long,1,known
+tt0187840,movie,Êxtase de Sádicos,Êxtase de Sádicos,0,1973.0,,88.0,Crime,5.7,13,1970,average,short,0,obscure
+tt1937253,movie,Mosca,Mosca,0,2011.0,,97.0,"Biography,Documentary,Drama",5.5,35,2010,average,standard,0,obscure
+tt0237138,movie,Dasharatham,Dasharatham,0,1989.0,,154.0,"Comedy,Drama",8.5,2670,1980,excellent,long,1,known
+tt4074928,movie,Realive,Realive,0,2016.0,,112.0,"Drama,Sci-Fi",5.9,5718,2010,average,standard,0,known
+tt0057566,movie,Un tentativo sentimentale,Un tentativo sentimentale,0,1963.0,,92.0,Drama,6.0,34,1960,average,standard,0,obscure
+tt0072356,movie,The Inconsolable Widow Thanks All Those Who Consoled Her,La vedova inconsolabile ringrazia quanti la consolarono,0,1973.0,,98.0,Comedy,5.5,218,1970,average,standard,0,obscure
+tt0406541,movie,Ashpet: An American Cinderella,Ashpet: An American Cinderella,0,1990.0,,45.0,Drama,8.2,35,1990,excellent,short,1,obscure
+tt1926986,movie,Billy's Cult,Billy's Cult,0,2013.0,,90.0,Horror,5.3,50,2010,average,short,0,obscure
+tt0164401,movie,Blood on the Sun,Lei tai,0,1972.0,,94.0,Action,5.5,104,1970,average,standard,0,obscure
+tt0035026,movie,The Man Who Returned to Life,The Man Who Returned to Life,0,1942.0,,61.0,"Action,Crime,Drama",6.2,31,1940,average,short,0,obscure
+tt0187233,movie,Lanke Bindelu,Lanke Bindelu,0,1983.0,,,,4.9,18,1980,poor,,0,obscure
+tt3088362,movie,Los Flamencos,Los Flamencos,0,2013.0,,88.0,"Adventure,Comedy",5.2,353,2010,average,short,0,obscure
+tt3046062,movie,Getúlio,Getúlio,0,2014.0,,101.0,"Biography,Drama,History",6.7,1362,2010,average,standard,0,known
+tt0064615,movie,Mackenna's Gold,Mackenna's Gold,0,1969.0,,128.0,"Action,Adventure,Drama",6.7,10685,1960,average,long,0,popular
+tt29541630,movie,The Flood- Death on the Dike,The Flood- Death on the Dike,0,2023.0,,103.0,Drama,4.9,79,2020,poor,standard,0,obscure
+tt8287232,movie,King of Hearts,Olen suomalainen,0,2019.0,,113.0,"Biography,Drama,Music",6.2,574,2010,average,standard,0,obscure
+tt3886228,movie,All About Eva,All About Eva,0,2020.0,,85.0,"Drama,Thriller",5.2,28,2020,average,short,0,obscure
+tt7086446,movie,4: GO,4: GO,0,2017.0,,,Thriller,3.9,164,2010,poor,,0,obscure
+tt6249434,movie,Shelter,Shelter,0,2017.0,,93.0,"Drama,Thriller",5.7,598,2010,average,standard,0,obscure
+tt2069783,movie,Great Day,Great Day,0,2011.0,,91.0,"Comedy,Drama",6.5,46,2010,average,standard,0,obscure
+tt2898898,movie,Gun Crazy 4: Requiem for a Bodyguard,Gun Crazy 4: Requiem for a Bodyguard,0,2003.0,,70.0,Action,5.0,27,2000,poor,short,0,obscure
+tt11207902,movie,Lejos de casa: éxodo venezolano,Lejos de casa: éxodo venezolano,0,2020.0,,87.0,"Drama,History",4.8,1652,2020,poor,short,0,known
+tt0116192,movie,The Empty Mirror,The Empty Mirror,0,1996.0,,118.0,"Drama,History,War",5.7,373,1990,average,standard,0,obscure
+tt0176846,movie,In My Father's House,In het huis van mijn vader,0,1997.0,,68.0,Documentary,7.5,34,1990,good,short,1,obscure
+tt5116248,movie,I Know You're in There,I Know You're in There,0,2016.0,,84.0,"Horror,Thriller",4.2,939,2010,poor,short,0,obscure
+tt1320334,movie,GravyTrain,GravyTrain,0,2010.0,,83.0,Comedy,3.9,548,2010,poor,short,0,obscure
+tt0039632,movie,Monsieur Vincent,Monsieur Vincent,0,1947.0,,111.0,"Biography,Drama,History",7.0,1184,1940,average,standard,1,known
+tt0148930,movie,Sleepy Eyes of Death: A Trail of Traps,Nemuri Kyôshirô burai-hikae: Mashô no hada,0,1967.0,,88.0,"Action,Drama",6.6,169,1960,average,short,0,obscure
+tt32306491,movie,"Chances Are, You and I","Chances Are, You and I",0,2024.0,,132.0,"Drama,Romance",6.0,152,2020,average,long,0,obscure
+tt2636364,movie,I'm Still Here,I'm Still Here,0,2013.0,,114.0,"Drama,Romance",7.0,1453,2010,average,standard,1,known
+tt0096811,movie,Fatal Vacation,On lok jin cheung,0,1990.0,,96.0,"Action,Crime,Drama",6.2,270,1990,average,standard,0,obscure
+tt1672614,movie,Precious Life,Precious Life,0,2010.0,,86.0,"Documentary,Drama,Family",7.3,199,2010,good,short,1,obscure
+tt1491595,movie,Aria,Aria,0,2009.0,,92.0,Drama,5.5,19,2000,average,standard,0,obscure
+tt0867280,movie,The Don,The Don,0,2006.0,,133.0,"Action,Crime,Thriller",4.5,227,2000,poor,long,0,obscure
+tt1673553,movie,Words of Devotion: To the End of the World,Ai no kotodama: sekai no hatemade,0,2010.0,,89.0,"Comedy,Drama,Romance",6.2,105,2010,average,short,0,obscure
+tt1486843,movie,Drew: The Man Behind the Poster,Drew: The Man Behind the Poster,0,2013.0,,97.0,"Biography,Documentary",7.4,1169,2010,good,standard,1,known
+tt4073244,movie,tobyMac Alive And Transported,tobyMac Alive And Transported,0,2014.0,,77.0,,7.7,10,2010,good,short,1,obscure
+tt5111408,movie,Prem Juddho,Prem Juddho,0,1994.0,,,"Action,Drama,Romance",7.7,52,1990,good,,1,obscure
+tt0085202,movie,The Farewell,Avskedet,0,1982.0,,90.0,Drama,6.1,87,1980,average,short,0,obscure
+tt0104428,movie,Hold Me Thrill Me Kiss Me,Hold Me Thrill Me Kiss Me,0,1992.0,,92.0,Comedy,5.9,675,1990,average,standard,0,obscure
+tt1035731,movie,Dare Not Walk Alone,Dare Not Walk Alone,0,2006.0,,83.0,Documentary,8.8,118,2000,excellent,short,1,obscure
+tt11795652,movie,Wildhood,Wildhood,0,2021.0,,108.0,"Drama,Romance",6.9,2160,2020,average,standard,0,known
+tt2765596,movie,Solitaire,Solitaire,0,2011.0,,52.0,,7.8,13,2010,good,short,1,obscure
+tt4076956,movie,Çekmeköy Underground,Çekmeköy Underground,0,2015.0,,96.0,"Drama,Music",4.8,230,2010,poor,standard,0,obscure
+tt1896767,movie,Lock Destination,Jian shi chu ji,0,2010.0,,94.0,"Action,Drama",4.1,57,2010,poor,standard,0,obscure
+tt0085897,movie,Mani di fata,Mani di fata,0,1983.0,,89.0,Comedy,5.8,463,1980,average,short,0,obscure
+tt8940852,movie,98 Seconds Without Shadow,98 segundos sin sombra,0,2021.0,,90.0,Drama,6.9,41,2020,average,short,0,obscure
+tt0209958,movie,The Cell,The Cell,0,2000.0,,107.0,"Crime,Horror,Sci-Fi",6.4,115367,2000,average,standard,0,blockbuster
+tt1417032,movie,Amalfi: Rewards of the Goddess,Amalfi: Rewards of the Goddess,0,2009.0,,125.0,Drama,6.1,397,2000,average,long,0,obscure
+tt0090194,movie,Le transfuge,Le transfuge,0,1985.0,,90.0,"Adventure,Drama",5.8,34,1980,average,short,0,obscure
+tt0430381,movie,Musafir,Musafir,0,2004.0,,151.0,"Action,Crime,Drama",5.6,2089,2000,average,long,0,known
+tt1027862,movie,Swing Vote,Swing Vote,0,2008.0,,120.0,"Comedy,Drama",6.1,20108,2000,average,standard,0,popular
+tt0107298,movie,"Jó éjt, királyfi","Jó éjt, királyfi",0,1994.0,,78.0,Drama,7.1,34,1990,good,short,1,obscure
+tt4954580,movie,Cuckold,Cuckold,0,2015.0,,95.0,Drama,6.2,44,2010,average,standard,0,obscure
+tt0244456,movie,Virtually Married,Casi casados,0,1961.0,,75.0,"Comedy,Romance",6.2,12,1960,average,short,0,obscure
+tt5348534,movie,Baron,Baron,0,2016.0,,164.0,"Action,Crime",7.2,89,2010,good,long,1,obscure
+tt23813062,movie,Intinti Ramayanam,Intinti Ramayanam,0,2022.0,,122.0,"Comedy,Drama,Family",6.8,360,2020,average,long,0,obscure
+tt0160942,movie,Swimming on the Moon,Swimming on the Moon,0,1999.0,,88.0,Drama,8.4,16,1990,excellent,short,1,obscure
+tt0343341,movie,9 Mornings,9 Mornings,0,2002.0,,100.0,Romance,7.4,66,2000,good,standard,1,obscure
+tt10650544,movie,Got Pain?,Got Pain?,0,2019.0,,96.0,Documentary,7.1,27,2010,good,standard,1,obscure
+tt27630350,movie,Jannataan: A Journey of Emotions,Jannataan: A Journey of Emotions,0,2023.0,,90.0,Romance,7.7,13,2020,good,short,1,obscure
+tt27304603,movie,The Last Days of Bablo,The Last Days of Bablo,0,2022.0,,104.0,"Comedy,Drama,Musical",7.6,57,2020,good,standard,1,obscure
+tt29452051,movie,Selloole Enferadi,Selloole Enferadi,0,2022.0,,58.0,,3.4,11,2020,poor,short,0,obscure
+tt6565702,movie,X-Men: Dark Phoenix,X-Men: Dark Phoenix,0,2019.0,,113.0,"Action,Adventure,Sci-Fi",5.7,226089,2010,average,standard,0,blockbuster
+tt7014356,movie,Anastasia,Anastasia: Once Upon a Time,0,2020.0,,89.0,"Adventure,Family,Fantasy",3.0,977,2020,poor,short,0,obscure
+tt0044472,movie,Canzoni di mezzo secolo,Canzoni di mezzo secolo,0,1952.0,,95.0,"Comedy,Musical",5.8,20,1950,average,standard,0,obscure
+tt0102188,movie,Karavan smerti,Karavan smerti,0,1992.0,,79.0,Action,6.0,74,1990,average,short,0,obscure
+tt4544008,movie,Jess & James,Jess & James,0,2015.0,,92.0,"Drama,Romance",5.3,730,2010,average,standard,0,obscure
+tt0258028,movie,Pistoleros bajo el sol,Pistoleros bajo el sol,0,1974.0,,92.0,"Action,Adventure,Drama",6.1,26,1970,average,standard,0,obscure
+tt2089789,movie,First Stone,Sang-e aval,0,2010.0,,81.0,"Comedy,Drama",5.2,55,2010,average,short,0,obscure
+tt10237902,movie,Gordon Lightfoot: If You Could Read My Mind,Gordon Lightfoot: If You Could Read My Mind,0,2019.0,,91.0,"Biography,Documentary,Music",7.8,772,2010,good,standard,1,obscure
+tt4193538,movie,Paratus 14:50,Paratus 14:50,0,2015.0,,90.0,Documentary,8.8,19,2010,excellent,short,1,obscure
+tt2959352,movie,Going Our Way 2,Gremo mi po svoje 2,0,2013.0,,94.0,Drama,5.7,454,2010,average,standard,0,obscure
+tt32605777,movie,Mixed Christmas,Mixed Christmas,0,2023.0,,,,6.7,16,2020,average,,0,obscure
+tt4842648,movie,Botanical Books,"Shokubutsu zukan: Unmei no koi, hiroimashita",0,2016.0,,112.0,"Drama,Romance",6.2,539,2010,average,standard,0,obscure
+tt4930292,movie,¡He matado a mi marido!,¡He matado a mi marido!,0,2018.0,,108.0,"Comedy,Crime,Romance",6.2,121,2010,average,standard,0,obscure
+tt0089396,movie,The Isle of Fantasy,Kai xin le yuan,0,1985.0,,82.0,"Adventure,Comedy",6.0,80,1980,average,short,0,obscure
+tt2854876,movie,Stepping High,Stepping High,0,2013.0,,98.0,Drama,4.5,149,2010,poor,standard,0,obscure
+tt15670222,movie,The Flood,The Flood,0,2023.0,,93.0,"Action,Horror,Thriller",3.2,2547,2020,poor,standard,0,known
+tt0067637,movie,The Legend of Frenchie King,Les pétroleuses,0,1971.0,,94.0,"Action,Comedy,Western",5.3,1539,1970,average,standard,0,known
+tt27146999,movie,The Water Flows to the Sea,The Water Flows to the Sea,0,2023.0,,123.0,Drama,6.3,223,2020,average,long,0,obscure
+tt1323824,movie,Nara,Nara,0,2008.0,,83.0,Thriller,7.8,56,2000,good,short,1,obscure
+tt37256937,movie,To the Rescue,To the Rescue,0,2024.0,,104.0,,7.9,56,2020,good,standard,1,obscure
+tt0262240,movie,As I Was Moving Ahead Occasionally I Saw Brief Glimpses of Beauty,As I Was Moving Ahead Occasionally I Saw Brief Glimpses of Beauty,0,2000.0,,288.0,"Biography,Documentary",8.1,1691,2000,excellent,long,1,known
+tt7472924,movie,Kamen Rider Heisei Generations Final: Build & Ex-Aid with Legend Riders,Kamen Raidâ Heisei Jenerêshonzu Fainaru: Birudo ando Eguzeido wizu Rejendo Raidâ,0,2017.0,,91.0,"Action,Adventure,Fantasy",7.4,187,2010,good,standard,1,obscure
+tt0175934,movie,Mág,Mág,0,1988.0,,87.0,Drama,6.5,79,1980,average,short,0,obscure
+tt0045755,movie,Fast and Loose,Fast and Loose,0,1954.0,,75.0,Comedy,5.9,152,1950,average,short,0,obscure
+tt0042478,movie,The Franchise Affair,The Franchise Affair,0,1951.0,,88.0,"Crime,Drama,Mystery",7.1,469,1950,good,short,1,obscure
+tt4705660,movie,Miss Happy,Pa Happy She Ta Yer,0,2015.0,,85.0,Comedy,4.4,61,2010,poor,short,0,obscure
+tt0194515,movie,Wang Dang,Wang Dang,0,1999.0,,,"Comedy,Drama",4.9,45,1990,poor,,0,obscure
+tt0772698,movie,Acoso prohibido,Acoso prohibido,0,2000.0,,90.0,"Crime,Drama,Thriller",5.9,20,2000,average,short,0,obscure
+tt0262219,movie,Akka Pettanam Chelleli Kapuram,Akka Pettanam Chelleli Kapuram,0,1993.0,,,"Comedy,Drama",6.4,22,1990,average,,0,obscure
+tt14631498,movie,Bamse and the Volcano Island,Bamse och vulkanön,0,2021.0,,69.0,"Adventure,Animation,Family",5.4,311,2020,average,short,0,obscure
+tt3179568,movie,"Men, Women & Children","Men, Women & Children",0,2014.0,,119.0,"Comedy,Drama",6.6,34761,2010,average,standard,0,popular
+tt0090825,movie,La chica que cayó del cielo,La chica que cayó del cielo,1,1986.0,,80.0,"Adult,Comedy",4.6,49,1980,poor,short,0,obscure
+tt5859312,movie,Selah el-Talamiz,Selah el-Talamiz,0,2016.0,,97.0,Comedy,2.9,14,2010,poor,standard,0,obscure
+tt0157102,movie,Tender Flesh,Tender Flesh,0,1997.0,,93.0,"Comedy,Horror",3.8,600,1990,poor,standard,0,obscure
+tt0410142,movie,Jump,Jump,0,2003.0,,115.0,Mystery,7.4,105,2000,good,standard,1,obscure
+tt0060736,movie,The Naked Prey,The Naked Prey,0,1965.0,,96.0,"Adventure,Drama,Thriller",7.3,6239,1960,good,standard,1,known
+tt27669002,movie,Heartbeat,Latido,0,2023.0,,88.0,Drama,6.3,115,2020,average,short,0,obscure
+tt7546462,movie,Watchers 10,Watchers 10,0,2016.0,,78.0,Documentary,8.7,15,2010,excellent,short,1,obscure
+tt0172524,movie,Gwiazdy musza plonac,Gwiazdy musza plonac,0,1954.0,,63.0,"Documentary,Drama",6.0,37,1950,average,short,0,obscure
+tt0099165,movie,The Bonfire of the Vanities,The Bonfire of the Vanities,0,1990.0,,125.0,"Comedy,Drama,Romance",5.6,28306,1990,average,long,0,popular
+tt2857048,movie,In His Steps,In His Steps,0,2013.0,,100.0,Drama,5.4,162,2010,average,standard,0,obscure
+tt2965384,movie,On Angel's Wings,On Angel's Wings,0,2014.0,,84.0,"Family,Sport",6.1,84,2010,average,short,0,obscure
+tt23624992,movie,Terror of the Master,Terror of the Master,0,1998.0,,75.0,"Drama,Horror,Thriller",4.0,11,1990,poor,short,0,obscure
+tt0047303,movie,Operazione notte,Operazione notte,0,1957.0,,95.0,"Crime,Drama",7.2,11,1950,good,standard,1,obscure
+tt0206912,movie,Double Deception,Les magiciennes,0,1960.0,,101.0,"Drama,Mystery",6.2,46,1960,average,standard,0,obscure
+tt0282198,movie,I Wouldn't Leave Tereza for Any Other Girl,Terezu bych kvuli zádné holce neopustil,0,1976.0,,81.0,Family,5.8,36,1970,average,short,0,obscure
+tt0106962,movie,François Truffaut: Portraits volés,François Truffaut: Portraits volés,0,1993.0,,88.0,"Biography,Documentary",7.4,137,1990,good,short,1,obscure
+tt0023471,movie,The Silent Witness,The Silent Witness,0,1932.0,,73.0,Mystery,6.2,90,1930,average,short,0,obscure
+tt0074873,movie,"Mary, Mary, Bloody Mary","Mary, Mary, Bloody Mary",0,1975.0,,91.0,"Drama,Horror,Mystery",5.1,884,1970,average,standard,0,obscure
+tt6247684,movie,Preto the Movie,Preto The Movie,0,2016.0,,56.0,"Action,Drama",7.5,16,2010,good,short,1,obscure
+tt0463650,movie,Pandippada,Pandippada,0,2005.0,,,Comedy,6.9,1176,2000,average,,0,known
+tt13991074,movie,Abaddon's Pit,Abaddon's Pit,0,2024.0,,93.0,"Drama,Sci-Fi,Thriller",5.5,53,2020,average,standard,0,obscure
+tt0182357,movie,Les parasites,Les parasites,0,1999.0,,90.0,"Comedy,Drama",5.6,489,1990,average,short,0,obscure
+tt5040624,movie,Ignatius of Loyola,Ignacio de Loyola,0,2016.0,,118.0,"Action,Biography,Drama",5.8,623,2010,average,standard,0,obscure
+tt14690430,movie,Make Up,Make Up,0,2002.0,,135.0,Drama,5.9,12,2000,average,long,0,obscure
+tt0924266,movie,Pizza with Bullets,Pizza with Bullets,0,2010.0,,99.0,"Comedy,Crime",6.8,102,2010,average,standard,0,obscure
+tt1235537,movie,Mahler on the Couch,Mahler auf der Couch,0,2010.0,,98.0,"Biography,Drama,Romance",6.1,529,2010,average,standard,0,obscure
+tt8516902,movie,Beta Hokhe Ta Aisan,Beta Hokhe Ta Aisan,0,2017.0,,,Action,4.2,15,2010,poor,,0,obscure
+tt0023963,movie,"Knock, ou le triomphe de la médecine","Knock, ou le triomphe de la médecine",0,1933.0,,95.0,Comedy,7.5,82,1930,good,standard,1,obscure
+tt0114940,movie,Wild Malibu Weekend!,Wild Malibu Weekend!,0,1995.0,,80.0,Comedy,4.0,114,1990,poor,short,0,obscure
+tt0195783,movie,Hinein: The Official film of 1958 FIFA World Cup Sweden,Hinein! Fussball - Weltmeisterschaft 1958,0,1958.0,,110.0,Documentary,6.4,53,1950,average,standard,0,obscure
+tt0080339,movie,Airplane!,Airplane!,0,1980.0,,88.0,Comedy,7.7,284831,1980,good,short,1,blockbuster
+tt0202245,movie,Artificial Paradise,Umetni raj,0,1990.0,,98.0,"Biography,Drama",6.5,53,1990,average,standard,0,obscure
+tt1523483,movie,Kaboom,Kaboom,0,2010.0,,86.0,"Comedy,Mystery,Romance",5.7,14378,2010,average,short,0,popular
+tt0140866,movie,The Broken Giant,The Broken Giant,0,1997.0,,83.0,Drama,6.0,47,1990,average,short,0,obscure
+tt2184140,movie,Beauty and the Breast,Beauty and the Breast,0,2012.0,,86.0,"Documentary,Drama",7.3,76,2010,good,short,1,obscure
+tt6229982,movie,Short Term Memory Loss,Short Term Memory Loss,0,2016.0,,101.0,Drama,6.2,35,2010,average,standard,0,obscure
+tt0194262,movie,The Happiest Place on Earth,Le plus beau pays du monde,0,1999.0,,120.0,"Biography,Drama",6.2,48,1990,average,standard,0,obscure
+tt0170584,movie,Slon i veryovochka,Slon i veryovochka,0,1946.0,,46.0,"Family,Musical",6.3,63,1940,average,short,0,obscure
+tt6852046,movie,Al Tha'abeen,Al Tha'abeen,0,1985.0,,112.0,Drama,5.5,11,1980,average,standard,0,obscure
+tt15801642,movie,Gekijouban Isekai Quartet: Another World,Gekijouban Isekai Quartet: Another World,0,2022.0,,112.0,"Animation,Comedy,Fantasy",7.1,218,2020,good,standard,1,obscure
+tt0362511,movie,Dorm Daze,Dorm Daze,0,2003.0,,96.0,"Comedy,Crime,Mystery",4.7,8568,2000,poor,standard,0,known
+tt0084123,movie,Imperative,Imperativ,0,1982.0,,96.0,Drama,6.6,178,1980,average,standard,0,obscure
+tt0049580,movie,Ora H,Ora H,0,1957.0,,90.0,Comedy,6.3,18,1950,average,short,0,obscure
+tt0064990,movie,Mississippi Mermaid,La sirène du Mississipi,0,1969.0,,123.0,"Crime,Drama,Romance",6.9,8003,1960,average,long,0,known
+tt0050307,movie,Desk Set,Desk Set,0,1957.0,,103.0,"Comedy,Romance",7.2,10296,1950,good,standard,1,popular
+tt1344107,movie,Spooky Kitaro: Japan Explodes!!,Gekijô ban Gegege no Kitarô: Nippon bakuretsu,0,2008.0,,75.0,"Adventure,Animation,Drama",4.9,31,2000,poor,short,0,obscure
+tt0300980,movie,Baseraa,Baseraa,0,1981.0,,139.0,"Drama,Family",6.8,199,1980,average,long,0,obscure
+tt3506476,movie,The Golden Child,Jin sun,0,2012.0,,86.0,Drama,5.8,10,2010,average,short,0,obscure
+tt12922362,movie,#MostLivable,#MostLivable,0,2020.0,,55.0,Documentary,6.4,12,2020,average,short,0,obscure
+tt3692766,movie,Loser's Crown,Loser's Crown,0,2014.0,,105.0,"Comedy,Drama",8.5,25,2010,excellent,standard,1,obscure
+tt11374902,movie,Doctor,Doctor,0,2021.0,,148.0,"Action,Comedy,Crime",7.4,21625,2020,good,long,1,popular
+tt5281734,movie,Phirey Esho Behula,Phirey Esho Behula,0,2011.0,,128.0,Drama,7.4,18,2010,good,long,1,obscure
+tt5926914,movie,The Lost Idea,The Lost Idea,0,2018.0,,90.0,"Drama,Fantasy",8.4,68,2010,excellent,short,1,obscure
+tt0424374,movie,Almost Brothers,Quase Dois Irmãos,0,2004.0,,102.0,Drama,6.9,673,2000,average,standard,0,obscure
+tt0320159,movie,All the Way,The Night We Called It a Day,0,2003.0,,97.0,"Biography,Comedy,Drama",5.8,1057,2000,average,standard,0,known
+tt0185614,movie,Five Fighters from Shaolin,Gui fu shen,0,1984.0,,87.0,"Action,Fantasy",6.5,100,1980,average,short,0,obscure
+tt8330720,movie,Everybody's Talking About Jamie,Everybody's Talking About Jamie,0,2018.0,,160.0,"Drama,Musical",8.0,756,2010,good,long,1,obscure
+tt0370584,movie,Queen of Kowloon,Gau lung wong hau,0,2000.0,,100.0,Drama,7.4,33,2000,good,standard,1,obscure
+tt31272132,movie,For Your Sake,Por tu bien,0,2024.0,,77.0,"Drama,Thriller",7.5,15,2020,good,short,1,obscure
+tt1521052,movie,Shadow of Afghanistan,Shadow of Afghanistan,0,2006.0,,100.0,Documentary,8.2,23,2000,excellent,standard,1,obscure
+tt31835921,movie,Teca e Tuti: Uma Noite na Biblioteca,Teca e Tuti: Uma Noite na Biblioteca,0,2023.0,,74.0,"Animation,Family,Fantasy",8.7,47,2020,excellent,short,1,obscure
+tt4697586,movie,Problemski Hotel,Problemski Hotel,0,2015.0,,110.0,"Comedy,Drama",6.4,344,2010,average,standard,0,obscure
+tt7415466,movie,Thomas & Friends: Big World! Big Adventures!,Thomas & Friends: Big World! Big Adventures!,0,2018.0,,85.0,"Action,Adventure,Animation",5.1,471,2010,average,short,0,obscure
+tt0086196,movie,Just a Game,Rien qu'un jeu,0,1983.0,,89.0,Drama,5.8,34,1980,average,short,0,obscure
+tt0491713,movie,1409. Afera na zamku Bartenstein,1409. Afera na zamku Bartenstein,0,2005.0,,75.0,Comedy,4.5,118,2000,poor,short,0,obscure
+tt0443536,movie,Hoodwinked,Hoodwinked!,0,2005.0,,80.0,"Adventure,Animation,Comedy",6.5,71208,2000,average,short,0,popular
+tt0237433,movie,Mamla Garbar Hai,Mamla Garbar Hai,0,1996.0,,,,3.0,30,1990,poor,,0,obscure
+tt13135756,movie,60 Seconds to Live,60 Seconds to Live,0,2022.0,,68.0,Horror,2.7,85,2020,poor,short,0,obscure
+tt10149506,movie,In Search of the Port Chatham Hairy Man,In Search of the Port Chatham Hairy Man,0,2019.0,,90.0,Documentary,4.4,51,2010,poor,short,0,obscure
+tt0004972,movie,The Birth of a Nation,The Birth of a Nation,0,1915.0,,195.0,"Drama,War",6.1,28135,1910,average,long,0,popular
+tt7427856,movie,The Carmilla Movie,The Carmilla Movie,0,2017.0,,97.0,"Comedy,Romance,Thriller",6.2,2853,2010,average,standard,0,known
+tt0996663,movie,Un clown passe,Un clown passe,0,2006.0,,80.0,Drama,9.1,19,2000,excellent,short,1,obscure
+tt0290002,movie,Meet the Fockers,Meet the Fockers,0,2004.0,,115.0,"Comedy,Romance",6.4,300909,2000,average,standard,0,blockbuster
+tt27425509,movie,Praveena,Praveena,0,2023.0,,,,9.2,15,2020,excellent,,1,obscure
+tt16549918,movie,Cherry Messages,Cherry Messages,0,2015.0,,71.0,,7.3,11,2010,good,short,1,obscure
+tt0364768,movie,Zwei Deutsche,Zwei Deutsche,0,1988.0,,92.0,Documentary,8.6,10,1980,excellent,standard,1,obscure
+tt15724292,movie,Papa Srapa,Papa Srapa,0,2020.0,,75.0,"Documentary,Music",8.1,24,2020,excellent,short,1,obscure
+tt0291238,movie,Secret Flower,Hika,0,1971.0,,70.0,Drama,6.0,54,1970,average,short,0,obscure
+tt0268673,movie,Up to the Visit,Ta marz-e didar,0,1990.0,,,,2.9,61,1990,poor,,0,obscure
+tt0033798,movie,The Vagabond's Valse,Kulkurin valssi,0,1941.0,,104.0,"Music,Romance",6.2,327,1940,average,standard,0,obscure
+tt0122591,movie,The Lonely Voice of Man,Odinokiy golos cheloveka,0,1987.0,,87.0,Drama,6.9,792,1980,average,short,0,obscure
+tt29630495,movie,Girls of 1960,1960. gada meitenes,0,2023.0,,71.0,Documentary,8.1,16,2020,excellent,short,1,obscure
+tt0252051,movie,"Tem, kto ostayotsya zhit","Tem, kto ostayotsya zhit",0,1982.0,,81.0,Drama,5.3,12,1980,average,short,0,obscure
+tt20674378,movie,Clinic,Clinic,0,2023.0,,89.0,Thriller,3.1,2126,2020,poor,short,0,known
+tt1485674,movie,Riding High,Alucinados,0,2008.0,,84.0,Thriller,4.9,98,2000,poor,short,0,obscure
+tt0291445,movie,Renzoku rape: Hentai jikken,Renzoku rape: Hentai jikken,0,1990.0,,60.0,,6.9,18,1990,average,short,0,obscure
+tt4002772,movie,Once I Was a Beehive,Once I Was a Beehive,0,2015.0,,119.0,"Comedy,Drama,Family",6.2,1418,2010,average,standard,0,known
+tt27045321,movie,Street Flow 2,Banlieusards 2,0,2023.0,,97.0,"Crime,Drama",5.3,593,2020,average,standard,0,obscure
+tt0207195,movie,Wadd: The Life & Times of John C. Holmes,Wadd: The Life & Times of John C. Holmes,1,1999.0,,105.0,"Adult,Biography,Documentary",6.8,972,1990,average,standard,0,obscure
+tt13320164,movie,"When New York Was One: The Yankees, the Mets & The 2000 Subway Series","When New York Was One: The Yankees, the Mets & The 2000 Subway Series",0,2020.0,,,"Documentary,Sport",8.4,11,2020,excellent,,1,obscure
+tt6095072,movie,Justine,Justine,0,2016.0,,93.0,Drama,6.2,61,2010,average,standard,0,obscure
+tt0022470,movie,Ten Nights in a Bar-Room,Ten Nights in a Bar-Room,0,1931.0,,72.0,"Drama,Romance",5.1,144,1930,average,short,0,obscure
+tt0068352,movie,The Legend of Blood Castle,Ceremonia sangrienta,0,1973.0,,89.0,Horror,5.8,923,1970,average,short,0,obscure
+tt0278809,movie,Vuelven los cinco halcones,Vuelven los cinco halcones,0,1962.0,,90.0,"Drama,Western",5.9,12,1960,average,short,0,obscure
+tt0889677,movie,Willie Francis Must Die Again,Willie Francis Must Die Again,0,2006.0,,52.0,"Crime,Documentary",7.8,14,2000,good,short,1,obscure
+tt3365734,movie,"Astra, ya lyublyu tebya","Astra, ya lyublyu tebya",0,2012.0,,92.0,"Action,Comedy,Drama",5.4,13,2010,average,standard,0,obscure
+tt29780694,movie,Ice,Ice,0,2023.0,,74.0,Action,4.7,21,2020,poor,short,0,obscure
+tt8495520,movie,The Mountain Tears,Ta dakrya tou vounou,0,2018.0,,111.0,Drama,6.2,25,2010,average,standard,0,obscure
+tt1296149,movie,3 al Rescate,3 al Rescate,0,2011.0,,80.0,"Adventure,Animation",6.8,62,2010,average,short,0,obscure
+tt0035788,movie,Death Valley Rangers,Death Valley Rangers,0,1943.0,,59.0,"Drama,Western",5.7,185,1940,average,short,0,obscure
+tt5074618,movie,Genis Aile: Yapistir,Genis Aile: Yapistir,0,2015.0,,96.0,Comedy,4.8,1570,2010,poor,standard,0,known
+tt32497004,movie,Maven,Maven,0,2024.0,,128.0,"Crime,Thriller",9.2,66,2020,excellent,long,1,obscure
+tt0087175,movie,Dreamscape,Dreamscape,0,1984.0,,99.0,"Action,Adventure,Horror",6.3,19719,1980,average,standard,0,popular
+tt1524524,movie,Catching Cancer,Catching Cancer,0,2009.0,,55.0,Documentary,6.8,11,2000,average,short,0,obscure
+tt0146233,movie,Repligator,Repligator,0,1996.0,,86.0,"Action,Comedy,Sci-Fi",3.0,564,1990,poor,short,0,obscure
+tt0061858,movie,The Karate Killers,The Karate Killers,0,1967.0,,89.0,"Action,Adventure,Comedy",5.3,800,1960,average,short,0,obscure
+tt5425502,movie,"It's Your Turn, Honey!","Schatz, nimm du sie!",0,2017.0,,90.0,Comedy,5.2,516,2010,average,short,0,obscure
+tt2372900,movie,Golda,Golda,0,2003.0,,60.0,Documentary,5.1,14,2000,average,short,0,obscure
+tt0115832,movie,Carla's Song,Carla's Song,0,1996.0,,127.0,"Drama,Romance,War",6.8,3684,1990,average,long,0,known
+tt0123078,movie,Foreign Correspondents,Foreign Correspondents,0,1999.0,,102.0,"Drama,Mystery,Romance",6.3,273,1990,average,standard,0,obscure
+tt5679678,movie,Schlafende Riesen - Die Macht der Vulkane,Schlafende Riesen - Die Macht der Vulkane,0,2016.0,,88.0,Documentary,7.0,10,2010,average,short,1,obscure
+tt4094874,movie,Long Way to the Top,Long Way to the Top,0,2016.0,,67.0,"Documentary,Music",8.6,14,2010,excellent,short,1,obscure
+tt0271676,movie,The Man of Earth,Njeriu prej dheu,0,1984.0,,102.0,"Drama,Thriller",7.6,156,1980,good,standard,1,obscure
+tt0223898,movie,Peace Is Every Step: Meditation in Action: The Life and Work of Thich Nhat Hanh,Peace Is Every Step: Meditation in Action: The Life and Work of Thich Nhat Hanh,0,1998.0,,60.0,Documentary,7.0,55,1990,average,short,1,obscure
+tt0044800,movie,King of the Congo,King of the Congo,0,1952.0,,252.0,Adventure,6.6,45,1950,average,long,0,obscure
+tt12696316,movie,Republika dzieci,Republika dzieci,0,2021.0,,132.0,"Adventure,Drama,Family",3.9,44,2020,poor,long,0,obscure
+tt11684342,movie,Crackland,Cracolândia,0,2020.0,,87.0,Documentary,5.6,27,2020,average,short,0,obscure
+tt13559110,movie,Informed Consent,Informed Consent,0,2020.0,,,Documentary,6.2,16,2020,average,,0,obscure
+tt3826814,movie,The Tree,Drevo,0,2014.0,,90.0,Drama,6.1,137,2010,average,short,0,obscure
+tt0174242,movie,Stav ztroskotání,Stav ztroskotání,0,1984.0,,73.0,"Comedy,Family",4.6,36,1980,poor,short,0,obscure
+tt2294899,movie,The World's First Computer,The World's First Computer,0,2012.0,,75.0,Documentary,7.6,91,2010,good,short,1,obscure
+tt5851410,movie,Rez,Rez,0,2016.0,,52.0,Documentary,8.5,16,2010,excellent,short,1,obscure
+tt0068432,movie,Cuando quiero llorar no lloro,Cuando quiero llorar no lloro,0,1973.0,,85.0,"Crime,Drama,Thriller",7.1,50,1970,good,short,1,obscure
+tt10191866,movie,Murder in the Front Row: The San Francisco Bay Area Thrash Metal Story,Murder in the Front Row: The San Francisco Bay Area Thrash Metal Story,0,2019.0,,92.0,"Documentary,Music",7.5,876,2010,good,standard,1,obscure
+tt10132874,movie,Loud Love,Loud Love,0,2024.0,,87.0,Documentary,8.6,17,2020,excellent,short,1,obscure
+tt0268327,movie,Gefängnisbilder,Gefängnisbilder,0,2001.0,,80.0,Documentary,7.4,127,2000,good,short,1,obscure
+tt0347338,movie,Soman kokkyô 2-gô sakusen: Kieta chûtai,Soman kokkyô 2-gô sakusen: Kieta chûtai,0,1955.0,,93.0,,7.3,28,1950,good,standard,1,obscure
+tt13675750,movie,The Origins of Arielle: H. C. Andersen,Märchen für die Welt: Hans Christian Andersen,0,2020.0,,52.0,Documentary,7.0,22,2020,average,short,1,obscure
+tt28641859,movie,Kadhai,Kadhai,0,2024.0,,100.0,"Drama,Mystery",9.3,34,2020,excellent,standard,1,obscure
+tt7095476,movie,Waiting for Anya,Waiting for Anya,0,2020.0,,109.0,"Drama,Thriller,War",6.1,2195,2020,average,standard,0,known
+tt0176157,movie,Death Chooses,Smrt si vybírá,0,1973.0,,92.0,Crime,5.2,31,1970,average,standard,0,obscure
+tt15023958,movie,The Worst Man in London,O Pior Homem de Londres,0,2024.0,,127.0,"Biography,Crime,Drama",5.7,179,2020,average,long,0,obscure
+tt0265015,movie,55 gradusov nizhe nulya,55 gradusov nizhe nulya,0,1986.0,,83.0,Drama,5.1,22,1980,average,short,0,obscure
+tt4641416,movie,Daddy's Girl,Isän tyttö,0,2016.0,,52.0,Documentary,6.3,47,2010,average,short,0,obscure
+tt30151706,movie,Kalasa: The Symbol of Abundance,Kalasa: The Symbol of Abundance,0,2023.0,,138.0,Thriller,8.0,3027,2020,good,long,1,known
+tt0203230,movie,You Can Count on Me,You Can Count on Me,0,2000.0,,111.0,Drama,7.5,33257,2000,good,standard,1,popular
+tt0301943,movie,Touche pas à mon copain,Touche pas à mon copain,0,1976.0,,92.0,"Comedy,Western",3.8,21,1970,poor,standard,0,obscure
+tt5153946,movie,Reportazh,Reportazh,0,1995.0,,89.0,"Adventure,Comedy,Romance",3.8,23,1990,poor,short,0,obscure
+tt4500584,movie,The Touch of an Angel,Dotkniecie aniola,0,2015.0,,60.0,Documentary,8.3,66,2010,excellent,short,1,obscure
+tt0043747,movie,Little Big Horn,Little Big Horn,0,1951.0,,86.0,"Drama,Western",6.6,606,1950,average,short,0,obscure
+tt2235789,movie,The Undertaker's Son,The Undertaker's Son,0,2012.0,,,"Crime,Drama,Thriller",6.1,16,2010,average,,0,obscure
+tt2388691,movie,Wrath of Eagles,Khashm-e oghabha,0,1970.0,,,"Adventure,Crime",3.8,18,1970,poor,,0,obscure
+tt0021488,movie,Trailing Trouble,Trailing Trouble,0,1930.0,,58.0,"Crime,Drama,Western",6.3,26,1930,average,short,0,obscure
+tt1404607,movie,Elementary Training for Actors,Entrenamiento elemental para actores,0,2009.0,,62.0,"Comedy,Drama",6.6,58,2000,average,short,0,obscure
+tt0069446,movie,The Master Touch,Un uomo da rispettare,0,1972.0,,112.0,"Action,Crime,Drama",5.9,736,1970,average,standard,0,obscure
+tt5246772,movie,The Drowned Dreams,The Drowned Dreams,0,2015.0,,54.0,Documentary,7.9,18,2010,good,short,1,obscure
+tt2747058,movie,"Ceuta, douce prison","Ceuta, douce prison",0,2013.0,,90.0,Documentary,7.1,42,2010,good,short,1,obscure
+tt0182019,movie,O Craque,O Craque,0,1953.0,,80.0,Drama,6.7,23,1950,average,short,0,obscure
+tt0238591,movie,Sham Ghansham,Sham Ghansham,0,1998.0,,160.0,"Action,Drama",3.7,87,1990,poor,long,0,obscure
+tt7474430,movie,Le portrait,Le portrait,0,2018.0,,92.0,"Drama,Fantasy,History",7.7,12,2010,good,standard,1,obscure
+tt0097443,movie,The Gods Must Be Crazy II,The Gods Must Be Crazy II,0,1989.0,,98.0,Comedy,6.8,18972,1980,average,standard,0,popular
+tt2615508,movie,Along Recovery,Along Recovery,0,2012.0,,94.0,Documentary,8.4,23,2010,excellent,standard,1,obscure
+tt28750546,movie,Murderous Minds: Dennis Nilsen,Murderous Minds: Dennis Nilsen,0,2023.0,,50.0,Documentary,5.5,15,2020,average,short,0,obscure
+tt14766058,movie,Here and There,Dito at doon,0,2021.0,,98.0,Romance,5.8,113,2020,average,standard,0,obscure
+tt33045632,movie,Pretty Boys,Pretty Boys,0,2024.0,,67.0,"Comedy,Romance",5.6,49,2020,average,short,0,obscure
+tt2141941,movie,Night Has Settled,Night Has Settled,0,2014.0,,90.0,Drama,6.2,401,2010,average,short,0,obscure
+tt0072108,movie,The Security Service Closes the Circle,SB zatvara krug,0,1974.0,,91.0,Action,6.0,89,1970,average,standard,0,obscure
+tt1086219,movie,The Wall Crawler: The Verticle Adventures of Alain Robert,The Wall Crawler: The Verticle Adventures of Alain Robert,0,1998.0,,52.0,Documentary,9.2,15,1990,excellent,short,1,obscure
+tt2075363,movie,Trans Bavaria,Trans Bavaria,0,2012.0,,120.0,Comedy,6.2,75,2010,average,standard,0,obscure
+tt2301073,movie,PondLife,PondLife,0,2006.0,,84.0,Comedy,5.0,17,2000,poor,short,0,obscure
+tt8259022,movie,Nepali Babu,Nepali Babu,0,1999.0,,,Drama,7.0,38,1990,average,,1,obscure
+tt2058710,movie,The Mark,The Mark,0,2012.0,,95.0,"Action,Fantasy,Sci-Fi",3.6,1058,2010,poor,standard,0,known
+tt0347898,movie,Roper and Goodie,Roper and Goodie,0,2003.0,,95.0,"Drama,Western",6.5,92,2000,average,standard,0,obscure
+tt11547982,movie,The 2:11 Home,The 2:11 Home,0,2021.0,,90.0,Family,4.8,17,2020,poor,short,0,obscure
+tt0309881,movie,Mountain of Fire: The Search for the True Mount Sinai,Mountain of Fire: The Search for the True Mount Sinai,0,2002.0,,46.0,Documentary,8.2,56,2000,excellent,short,1,obscure
+tt14625082,movie,Bruce Springsteen: Born to Rock,Bruce Springsteen: Born to Rock,0,2020.0,,51.0,"Documentary,Music",6.3,11,2020,average,short,0,obscure
+tt1822325,movie,The Black Belle,The Black Belle,0,2010.0,,84.0,"Comedy,Music",5.5,90,2010,average,short,0,obscure
+tt2881696,movie,Reket,Reket,0,2014.0,,80.0,Drama,5.0,27,2010,poor,short,0,obscure
+tt0345492,movie,Kapitanat,Kapitanat,0,1963.0,,80.0,Family,7.4,15,1960,good,short,1,obscure
+tt0044090,movie,Sunny Side of the Street,Sunny Side of the Street,0,1951.0,,71.0,"Comedy,Music,Romance",5.5,108,1950,average,short,0,obscure
+tt20113586,movie,Sachertorte,Sachertorte,0,2022.0,,112.0,"Comedy,Drama,Romance",6.8,1602,2020,average,standard,0,known
+tt13074922,movie,Valentine Crush,Valentine Crush,0,2021.0,,62.0,Horror,8.3,27,2020,excellent,short,1,obscure
+tt0045840,movie,The Great Jesse James Raid,The Great Jesse James Raid,0,1953.0,,73.0,"Drama,Western",4.6,123,1950,poor,short,0,obscure
+tt0048085,movie,Il prigioniero della montagna,Il prigioniero della montagna,0,1955.0,,101.0,Drama,4.9,87,1950,poor,standard,0,obscure
+tt0111859,movie,Az áldozat,Az áldozat,0,1994.0,,100.0,Documentary,8.0,10,1990,good,standard,1,obscure
+tt1392743,movie,Evening of Roses,Ye mei gui,0,2009.0,,100.0,"Comedy,Drama,Romance",8.1,82,2000,excellent,standard,1,obscure
+tt21802440,movie,Two Souls,Two Souls,0,2023.0,,134.0,"Fantasy,Romance",6.9,2241,2020,average,long,0,known
+tt0102557,movie,Blue Note,La note bleue,0,1991.0,,135.0,"Drama,Music,Romance",6.2,879,1990,average,long,0,obscure
+tt15220036,movie,Atlantis,Atlantis,0,2021.0,,90.0,"Action,Crime,Drama",6.7,39,2020,average,short,0,obscure
+tt3772902,movie,The Gates of Vanity,The Gates of Vanity,0,2015.0,,102.0,"Drama,Horror,Thriller",5.7,48,2010,average,standard,0,obscure
+tt1836876,movie,Ocean State,Ocean State,0,2010.0,,64.0,"Comedy,Drama,Romance",7.9,15,2010,good,short,1,obscure
+tt0190776,movie,Sex and Other Games,Sex and Other Games,1,1990.0,,73.0,"Adult,Romance",4.9,134,1990,poor,short,0,obscure
+tt0196846,movie,Pet of the Month: Mariwin Roberts,Pet of the Month: Mariwin Roberts,1,1978.0,,69.0,"Adult,Romance",4.4,30,1970,poor,short,0,obscure
+tt7278052,movie,Through a Dark Mirror,Through a Dark Mirror,0,2019.0,,108.0,Mystery,6.0,58,2010,average,standard,0,obscure
+tt0211296,movie,Chasing the Dragon,Chasing the Dragon,0,2000.0,,120.0,Drama,6.8,36,2000,average,standard,0,obscure
+tt15976656,movie,Marta - Il delitto della Sapienza,Marta - Il delitto della Sapienza,0,2021.0,,109.0,"Crime,Documentary",6.5,87,2020,average,standard,0,obscure
+tt0133264,movie,Die Villa im Tiergarten,Die Villa im Tiergarten,0,1927.0,,,,6.6,11,1920,average,,0,obscure
+tt9811798,movie,0009: The Sharks Make Contact,0009: The Sharks Make Contact,0,2019.0,,133.0,"Animation,Comedy,Musical",2.1,90,2010,poor,long,0,obscure
+tt0172416,movie,Last Plane to Baalbeck,F.B.I. operazione Baalbeck,0,1964.0,,95.0,"Action,Crime",5.0,42,1960,poor,standard,0,obscure
+tt15829830,movie,La invitada,La invitada,0,2023.0,,83.0,"Drama,Horror,Mystery",5.6,24,2020,average,short,0,obscure
+tt0886476,movie,Desierto Sur,Desierto Sur,0,2008.0,,100.0,Drama,6.1,168,2000,average,standard,0,obscure
+tt0846073,movie,Raja Chinna Roja,Raja Chinna Roja,0,1989.0,,140.0,"Action,Comedy,Drama",6.9,401,1980,average,long,0,obscure
+tt0350207,movie,Tikim,Tikim,0,2001.0,,90.0,"Comedy,Romance",6.5,13,2000,average,short,0,obscure
+tt0063203,movie,Black Lizard,Kuro tokage,0,1968.0,,86.0,"Comedy,Crime,Fantasy",6.9,755,1960,average,short,0,obscure
+tt0022646,movie,The Children of the Sun,Päikese lapsed,0,1932.0,,47.0,Drama,5.8,45,1930,average,short,0,obscure
+tt4786618,movie,Krishnamma Kalipindi Iddarini,Krishnamma Kalipindi Iddarini,0,2015.0,,,"Drama,Romance",6.9,171,2010,average,,0,obscure
+tt6450628,movie,The Revenge of Robert the Doll,The Legend of Robert the Doll,0,2018.0,,80.0,Horror,2.7,980,2010,poor,short,0,obscure
+tt0016623,movie,The Prince and the Dancer,Der Balletterzherzog. Ein Wiener Spiel von Tanz und Liebe,0,1926.0,,80.0,,7.1,22,1920,good,short,1,obscure
+tt0158451,movie,Aaj Ki Awaz,Aaj Ki Awaz,0,1984.0,,137.0,"Action,Crime,Drama",5.6,136,1980,average,long,0,obscure
+tt14051624,movie,Underdog: Part Two,Andâdoggu: Kôhen,0,2020.0,,146.0,"Drama,Sport",6.6,49,2020,average,long,0,obscure
+tt0060767,movie,The Killer Lacks a Name,Il nostro agente a Casablanca,0,1966.0,,85.0,Thriller,5.5,53,1960,average,short,0,obscure
+tt13124586,movie,Scarecrow,Pugalo,0,2020.0,,72.0,Drama,6.2,576,2020,average,short,0,obscure
+tt0042037,movie,Western Renegades,Western Renegades,0,1949.0,,54.0,"Drama,Western",6.3,32,1940,average,short,0,obscure
+tt0086257,movie,Der Schnüffler,Der Schnüffler,0,1983.0,,91.0,Comedy,5.7,521,1980,average,standard,0,obscure
+tt6495714,movie,Motta Shiva Ketta Shiva,Motta Shiva Ketta Shiva,0,2017.0,,151.0,Action,3.6,641,2010,poor,long,0,obscure
+tt0157772,movie,Houla Houla,Houla Houla,0,1959.0,,82.0,Comedy,3.4,27,1950,poor,short,0,obscure
+tt29627058,movie,The Border Crossed Us,The Border Crossed Us,0,2023.0,,72.0,Documentary,7.0,42,2020,average,short,1,obscure
+tt0190995,movie,Le bal des passants,Le bal des passants,0,1944.0,,90.0,"Comedy,Drama",5.5,10,1940,average,short,0,obscure
+tt1503654,movie,The Idiot Cycle,The Idiot Cycle,0,2009.0,,93.0,Documentary,8.1,31,2000,excellent,standard,1,obscure
+tt0378170,movie,Kakaibang karisma,Kakaibang karisma,0,1995.0,,,Drama,2.0,41,1990,poor,,0,obscure
+tt10943762,movie,The Red Tide Massacre,The Red Tide Massacre,0,2022.0,,88.0,Horror,3.2,160,2020,poor,short,0,obscure
+tt3087490,movie,A Drop of Water,A Drop of Water,0,2013.0,,99.0,"Documentary,History,News",7.4,13,2010,good,standard,1,obscure
+tt0071882,movie,My Pleasure Is My Business,My Pleasure Is My Business,0,1975.0,,94.0,Comedy,4.6,81,1970,poor,standard,0,obscure
+tt0452644,movie,Lucky Miles,Lucky Miles,0,2007.0,,105.0,"Adventure,Comedy,Drama",7.1,764,2000,good,standard,1,obscure
+tt0291172,movie,The Son,Le fils,0,2002.0,,103.0,"Drama,Mystery",7.5,10526,2000,good,standard,1,popular
+tt6245710,movie,Black Ballerina,Black Ballerina,0,2016.0,,57.0,Documentary,7.5,39,2010,good,short,1,obscure
+tt0160471,movie,Lili's Wedding Night,Lili's Wedding Night,0,1952.0,,65.0,Drama,5.7,13,1950,average,short,0,obscure
+tt1248290,movie,The Artist,El artista,0,2008.0,,100.0,"Comedy,Drama",7.1,507,2000,good,standard,1,obscure
+tt14884570,movie,Paper City,Paper City,0,2021.0,,80.0,Documentary,8.3,41,2020,excellent,short,1,obscure
+tt0041440,movie,Gun Runner,Gun Runner,0,1949.0,,54.0,"Drama,Music,Western",5.9,38,1940,average,short,0,obscure
+tt0245142,movie,Haar Jeet,Haar Jeet,0,1940.0,,,,7.9,11,1940,good,,1,obscure
+tt0217982,movie,Adres vashego doma,Adres vashego doma,0,1973.0,,86.0,Drama,6.3,17,1970,average,short,0,obscure
+tt3662786,movie,Tú y yo,Tú y yo,0,2014.0,,87.0,"Comedy,Documentary,Drama",7.7,22,2010,good,short,1,obscure
+tt0210389,movie,Wisconsin Death Trip,Wisconsin Death Trip,0,1999.0,,76.0,"Biography,Crime,Drama",6.7,1696,1990,average,short,0,known
+tt27896561,movie,Broken Ties,Broken Ties,0,2022.0,,98.0,Documentary,8.1,22,2020,excellent,standard,1,obscure
+tt3881580,movie,Wrestless: The MPW Documentary,Wrestless: The MPW Documentary,0,2014.0,,103.0,Documentary,8.4,12,2010,excellent,standard,1,obscure
+tt2459292,movie,Kaderim,Kaderim,0,1987.0,,87.0,"Drama,Music,Romance",3.7,18,1980,poor,short,0,obscure
+tt0041665,movie,Una mujer cualquiera,Una mujer cualquiera,0,1949.0,,89.0,"Crime,Drama",6.8,68,1940,average,short,0,obscure
+tt1212024,movie,Schrödinger's Girl,Schrödinger's Girl,0,2009.0,,86.0,Sci-Fi,5.0,80,2000,poor,short,0,obscure
+tt0111063,movie,Oh! My Three Guys,San ge xiang ai de shao nian,0,1994.0,,96.0,Comedy,6.7,64,1990,average,standard,0,obscure
+tt27854619,movie,Miss Boots,Mlle Bottine,0,2024.0,,111.0,Comedy,7.0,340,2020,average,standard,1,obscure
+tt22391142,movie,Super Babes,Super Babes,0,2014.0,,80.0,Action,5.2,13,2010,average,short,0,obscure
+tt0259083,movie,Varhadi Ani Vajantri,Varhadi Ani Vajantri,0,1973.0,,,"Comedy,Drama",9.0,12,1970,excellent,,1,obscure
+tt0027437,movie,Champagne Charlie,Champagne Charlie,0,1936.0,,59.0,"Crime,Drama",6.0,168,1930,average,short,0,obscure
+tt7244092,movie,Melle,Melle,0,2017.0,,115.0,"Drama,Family,Musical",6.1,78,2010,average,standard,0,obscure
+tt0085496,movie,Dark Habits,Entre tinieblas,0,1983.0,,114.0,"Comedy,Drama",6.5,9152,1980,average,standard,0,known
+tt30007748,movie,Roti Kapda Romance,Roti Kapda Romance,0,2024.0,,153.0,"Comedy,Drama,Romance",5.7,2536,2020,average,long,0,known
+tt0175075,movie,Propala hramota,Propala hramota,0,1972.0,,79.0,"Comedy,Fantasy",8.3,1776,1970,excellent,short,1,known
+tt0245220,movie,Islands,Kghziner,0,1987.0,,56.0,Documentary,6.6,116,1980,average,short,0,obscure
+tt1573072,movie,Housefull,Housefull,0,2010.0,,144.0,"Comedy,Drama",5.7,17899,2010,average,long,0,popular
+tt31358324,movie,The Heart of Raqqah,Ghalbe Raghe,0,2024.0,,101.0,,4.7,104,2020,poor,standard,0,obscure
+tt0097697,movie,Könnyü vér,Könnyü vér,0,1990.0,,86.0,Drama,5.9,45,1990,average,short,0,obscure
+tt2363421,movie,The Chrysalis,Nü yong,0,2012.0,,96.0,"Mystery,Romance,Thriller",5.5,159,2010,average,standard,0,obscure
+tt18253906,movie,Prem Thai Gayo,Prem Thai Gayo,0,2022.0,,,Drama,6.2,14,2020,average,,0,obscure
+tt29795485,movie,The Thorn: One Sacred Light,Sengkolo: Malam satu suro,0,2024.0,,100.0,Horror,5.8,74,2020,average,standard,0,obscure
+tt2650464,movie,Above San Francisco,Above San Francisco,0,1973.0,,45.0,Documentary,8.9,11,1970,excellent,short,1,obscure
+tt13660418,movie,Shoky & Morthy: Last Big Thing,Shoky & Morthy: Poslední velká akce,0,2021.0,,99.0,"Comedy,Mystery,Thriller",5.8,289,2020,average,standard,0,obscure
+tt9185316,movie,I Am Woman,I Am Woman,0,2019.0,,116.0,"Biography,Drama,Music",6.6,3223,2010,average,standard,0,known
+tt0197923,movie,On the Heights All Is Peace,Su tutte le vette è pace,0,1999.0,,72.0,"Documentary,War",8.1,43,1990,excellent,short,1,obscure
+tt0090169,movie,Thunder Run,Thunder Run,0,1986.0,,90.0,"Action,Sci-Fi,Thriller",5.0,457,1980,poor,short,0,obscure
+tt0013877,movie,Bluebeard's 8th Wife,Bluebeard's 8th Wife,0,1923.0,,60.0,"Comedy,Romance",6.9,36,1920,average,short,0,obscure
+tt0042530,movie,Gun Crazy,Gun Crazy,0,1950.0,,87.0,"Crime,Drama,Film-Noir",7.6,16472,1950,good,short,1,popular
+tt0056335,movie,The Password Is Courage,The Password Is Courage,0,1962.0,,116.0,"Comedy,Drama,War",6.8,1665,1960,average,standard,0,known
+tt0079111,movie,Ernesto,Ernesto,0,1979.0,,94.0,"Drama,Romance",6.9,632,1970,average,standard,0,obscure
+tt9733060,movie,Mithatenet,Mithatenet,0,2022.0,,100.0,"Comedy,Drama,Romance",6.1,22,2020,average,standard,0,obscure
+tt0097770,movie,Lock Up,Lock Up,0,1989.0,,109.0,"Action,Crime,Drama",6.4,49379,1980,average,standard,0,popular
+tt1079383,movie,Waiting for Godik,Waiting for Godik,0,2007.0,,60.0,"Documentary,Music",7.7,18,2000,good,short,1,obscure
+tt1679238,movie,Sunday Morning in Victoria Park,Minggu Pagi di Victoria Park,0,2010.0,,97.0,Drama,7.6,107,2010,good,standard,1,obscure
+tt0262411,movie,Fatty Drives the Bus,Fatty Drives the Bus,0,1999.0,,82.0,"Comedy,Fantasy",4.0,290,1990,poor,short,0,obscure
+tt0081204,movie,Mur murs,Mur murs,0,1981.0,,80.0,Documentary,7.4,1297,1980,good,short,1,known
+tt0203737,movie,Rainbow Bridge,Niji no hashi,0,1993.0,,115.0,Drama,6.7,12,1990,average,standard,0,obscure
+tt0814046,movie,Celia: The Queen,Celia: The Queen,0,2008.0,,96.0,"Documentary,Music",8.5,31,2000,excellent,standard,1,obscure
+tt0095214,movie,Ghost's Hospital,Mong gwai yee yuen,0,1988.0,,90.0,"Comedy,Horror",6.0,13,1980,average,short,0,obscure
+tt5034276,movie,The Phone,Deo pon,0,2015.0,,115.0,"Action,Mystery,Sci-Fi",6.5,1301,2010,average,standard,0,known
+tt3185648,movie,Nowhere Nevada,Nowhere Nevada,0,2013.0,,100.0,"Comedy,Crime,Drama",6.8,40,2010,average,standard,0,obscure
+tt4599648,movie,El Pirata,El Pirata,0,2015.0,,90.0,Action,9.5,19,2010,excellent,short,1,obscure
+tt0016639,movie,The Belle of Broadway,The Belle of Broadway,0,1926.0,,60.0,"Drama,Romance",6.6,151,1920,average,short,0,obscure
+tt1521849,movie,Split Second Murders,Sei sung saw liu,0,2009.0,,90.0,Comedy,4.7,100,2000,poor,short,0,obscure
+tt12411434,movie,Bleu Blanc Satan: Early French Black Metal,Bleu Blanc Satan: Early French Black Metal,0,2017.0,,45.0,"Documentary,Music",7.1,18,2010,good,short,1,obscure
+tt8403678,movie,Gebore Talente,Gebore Talente,0,2018.0,,,Family,8.3,10,2010,excellent,,1,obscure
+tt4826742,movie,Chidiya,Chidiya,0,2016.0,,110.0,"Drama,Family",6.8,191,2010,average,standard,0,obscure
+tt3099354,movie,Tony,Tony,0,2013.0,,136.0,Thriller,7.7,58,2010,good,long,1,obscure
+tt10315050,movie,Dampyr,Dampyr,0,2022.0,,109.0,"Fantasy,Horror",5.3,3641,2020,average,standard,0,known
+tt1789884,movie,Poor Wee Me,Poor Wee Me,0,2010.0,,,Drama,7.9,12,2010,good,,1,obscure
+tt0268313,movie,En förälskelse,En förälskelse,0,2001.0,,94.0,"Drama,Romance",4.8,132,2000,poor,standard,0,obscure
+tt0080521,movie,Le c... de Marilyne,Le c... de Marilyne,0,1980.0,,85.0,,4.8,59,1980,poor,short,0,obscure
+tt11575918,movie,Nargesi,Nargesi,0,2021.0,,84.0,,5.4,128,2020,average,short,0,obscure
+tt2085756,movie,Be Good,Be Good,0,2012.0,,95.0,"Comedy,Drama,Family",6.1,31,2010,average,standard,0,obscure
+tt3636194,movie,The Nanabijou Tapes,The Nanabijou Tapes,0,2014.0,,80.0,"Horror,Mystery,Thriller",4.3,124,2010,poor,short,0,obscure
+tt4111826,movie,Rough Stuff,Rough Stuff,0,2017.0,,120.0,"Action,Adventure",4.8,333,2010,poor,standard,0,obscure
+tt11371506,movie,Kyôkasho ni nai! 3,Kyôkasho ni nai! 3,0,2017.0,,,,5.0,11,2010,poor,,0,obscure
+tt2925410,movie,Chat,Chat,0,2015.0,,86.0,"Crime,Drama,Thriller",3.0,132,2010,poor,short,0,obscure
+tt21259890,movie,Morgan Freeman: Breaking Barriers,Morgan Freeman: Breaking Barriers,0,2022.0,,60.0,"Biography,Documentary",5.9,17,2020,average,short,0,obscure
+tt1362481,movie,River of Renewal,River of Renewal,0,2009.0,,54.0,Documentary,7.2,13,2000,good,short,1,obscure
+tt6001452,movie,The Cormorants,I cormorani,0,2016.0,,89.0,"Adventure,Drama",5.7,263,2010,average,short,0,obscure
+tt5928396,movie,Werewolf,Werewolf,0,2016.0,,80.0,Drama,6.2,778,2010,average,short,0,obscure
+tt15772306,movie,Preludes/Beginnings,Preludes/Beginnings,0,2021.0,,47.0,"Horror,Thriller",8.5,10,2020,excellent,short,1,obscure
+tt0092863,movie,Deep Space,Deep Space,0,1988.0,,90.0,"Horror,Sci-Fi",4.5,1281,1980,poor,short,0,known
+tt4908040,movie,Tiramisù,Tiramisù,0,2016.0,,94.0,Comedy,5.2,853,2010,average,standard,0,obscure
+tt7631568,movie,The Devil to Pay,Reckoning,0,2019.0,,87.0,Thriller,6.3,1519,2010,average,short,0,known
+tt10584804,movie,Dario Argento: Soupirs dans un corridor lointain,Dario Argento: Soupirs dans un corridor lointain,0,2019.0,,97.0,Documentary,6.5,25,2010,average,standard,0,obscure
+tt1285210,movie,And the Beat Goes On,And the Beat Goes On,0,2009.0,,,Documentary,8.2,18,2000,excellent,,1,obscure
+tt10934196,movie,South Wind 2: Speed Up,Juzni vetar 2: Ubrzanje,0,2021.0,,127.0,"Crime,Drama,Thriller",6.3,4335,2020,average,long,0,known
+tt0031864,movie,Rio Grande,Rio Grande,0,1938.0,,58.0,"Drama,Western",6.4,69,1930,average,short,0,obscure
+tt8842380,movie,Cinta sama dengan Cindolo Na Tape,Cinta sama dengan Cindolo Na Tape,0,2018.0,,,"Comedy,Drama",8.0,22,2010,good,,1,obscure
+tt0168849,movie,Hathi,Hathi,0,1998.0,,97.0,Drama,7.0,84,1990,average,standard,1,obscure
+tt0105415,movie,Singles,Singles,0,1992.0,,99.0,"Comedy,Drama,Music",6.8,35136,1990,average,standard,0,popular
+tt0047496,movie,Simon Menyhért születése,Simon Menyhért születése,0,1954.0,,100.0,Drama,7.0,65,1950,average,standard,1,obscure
+tt5742374,movie,You Were Never Really Here,You Were Never Really Here,0,2017.0,,89.0,"Crime,Drama,Thriller",6.7,134937,2010,average,short,0,blockbuster
+tt0025079,movie,Elinor Norton,Elinor Norton,0,1934.0,,71.0,"Drama,Romance,War",5.8,45,1930,average,short,0,obscure
+tt0047390,movie,The Rainbow Jacket,The Rainbow Jacket,0,1954.0,,99.0,"Drama,Sport",6.5,222,1950,average,standard,0,obscure
+tt36917557,movie,The Words Women Spoke One Day,Les mots qu'elles eurent un jour,0,2024.0,,84.0,"Documentary,History",7.2,11,2020,good,short,1,obscure
+tt0130795,movie,The Intruders,The Intruders,0,1969.0,,100.0,Family,7.1,69,1960,good,standard,1,obscure
+tt1010418,movie,Lullaby,Lullaby,0,2008.0,,96.0,Thriller,4.8,219,2000,poor,standard,0,obscure
+tt0191531,movie,Swinging Ski Girls,Swinging Ski Girls,1,1975.0,,84.0,Adult,4.1,25,1970,poor,short,0,obscure
+tt27012240,movie,American Maroon,American Maroon,0,2023.0,,173.0,Documentary,6.7,128,2020,average,long,0,obscure
+tt0211994,movie,A Bride for Brenda,A Bride for Brenda,0,1969.0,,62.0,Drama,6.6,23,1960,average,short,0,obscure
+tt5562812,movie,Lets Shake on It,Lets Shake on It,0,2015.0,,104.0,Comedy,3.0,13,2010,poor,standard,0,obscure
+tt13234058,movie,My Son,My Son,0,2021.0,,95.0,"Crime,Drama,Mystery",6.0,18243,2020,average,standard,0,popular
+tt0158361,movie,White Ensign,White Ensign,0,1934.0,,84.0,"Adventure,Drama",7.0,10,1930,average,short,1,obscure
+tt1034034,movie,Heart of the King,Heart of the King,0,2007.0,,90.0,Documentary,6.8,34,2000,average,short,0,obscure
+tt0199372,movie,Bontoc Eulogy,Bontoc Eulogy,0,1995.0,,56.0,"Documentary,History",7.1,70,1990,good,short,1,obscure
+tt3699372,movie,Let Me Make You a Martyr,Let Me Make You a Martyr,0,2016.0,,102.0,"Action,Crime,Drama",4.6,1539,2010,poor,standard,0,known
+tt5334304,movie,Bong of the Living Dead,Bong of the Living Dead,0,2017.0,,81.0,Horror,5.3,256,2010,average,short,0,obscure
+tt0961077,movie,Rachna,Rachna,0,1983.0,,118.0,Family,4.6,22,1980,poor,standard,0,obscure
+tt1235448,movie,The Thaw,The Thaw,0,2009.0,,94.0,"Horror,Sci-Fi",5.2,14010,2000,average,standard,0,popular
+tt1947998,movie,Dear God No!,Dear God No!,0,2011.0,,81.0,"Comedy,Horror",3.8,1881,2010,poor,short,0,known
+tt12194500,movie,Fearless Foxes: Our Story,Fearless Foxes: Our Story,0,2020.0,,63.0,Documentary,6.9,35,2020,average,short,0,obscure
+tt2259974,movie,Fat Cat,Fat Cat,0,2012.0,,58.0,"Action,Comedy,Crime",7.6,14,2010,good,short,1,obscure
+tt0342667,movie,Once in a Lifetime,Laila min omri,0,1954.0,,,,6.2,26,1950,average,,0,obscure
+tt7770166,movie,Idam Porul Aavi,Idam Porul Aavi,0,2017.0,,110.0,Horror,6.3,16,2010,average,standard,0,obscure
+tt0206235,movie,Quick Billy,Quick Billy,0,1971.0,,56.0,Drama,6.8,193,1970,average,short,0,obscure
+tt15225846,movie,Kolej Rüyasi: Lise Günlükleri 2,Kolej Rüyasi: Lise Günlükleri 2,0,2022.0,,,Comedy,1.2,23,2020,poor,,0,obscure
+tt8946798,movie,Badur Hogar,Badur Hogar,0,2019.0,,101.0,"Comedy,Drama",6.5,116,2010,average,standard,0,obscure
+tt1930549,movie,Virgin 3: Satu Malam Mengubah Segalanya,Virgin 3: Satu Malam Mengubah Segalanya,0,2011.0,,82.0,Drama,6.4,31,2010,average,short,0,obscure
+tt13155646,movie,Fish School: Into the Deep,Fish School: Into the Deep,0,2020.0,,60.0,"Animation,Documentary,Family",7.4,17,2020,good,short,1,obscure
+tt1537282,movie,Ghostown,Ghostown,0,2009.0,,105.0,Drama,7.1,13,2000,good,standard,1,obscure
+tt0091738,movie,Peggy Sue Got Married,Peggy Sue Got Married,0,1986.0,,103.0,"Comedy,Drama,Fantasy",6.4,43772,1980,average,standard,0,popular
+tt18231326,movie,Bad Hombres,Bad Hombres,0,2023.0,,93.0,"Crime,Thriller",5.4,668,2020,average,standard,0,obscure
+tt5498354,movie,Horizon Line,Horizon Line,0,2020.0,,92.0,"Adventure,Drama,Horror",4.8,12530,2020,poor,standard,0,popular
+tt0382077,movie,Hide and Seek,Hide and Seek,0,2005.0,,101.0,"Horror,Mystery",6.0,92362,2000,average,standard,0,popular
+tt0106693,movie,The Inheritance or Fuckoffguysgoodday,Dedictví aneb Kurvahosigutntag,0,1992.0,,120.0,Comedy,7.6,2847,1990,good,standard,1,known
+tt0020012,movie,Triumph of Love,Ich lebe für Dich,0,1929.0,,,,5.5,14,1920,average,,0,obscure
+tt0335544,movie,Warfreak,Warfreak,0,1998.0,,,"Action,Drama",7.2,24,1990,good,,1,obscure
+tt6271528,movie,Oro,Oro,0,2016.0,,110.0,"Crime,Drama,Thriller",4.6,142,2010,poor,standard,0,obscure
+tt1282024,movie,Blessed,Blessed,0,2009.0,,113.0,Drama,6.6,808,2000,average,standard,0,obscure
+tt8141446,movie,Seven Years Marrige,Jie hun qi nian,0,2005.0,,82.0,"Drama,Romance",8.2,37,2000,excellent,short,1,obscure
+tt0384102,movie,Firentsue no kaze ni dakarete,Firentsue no kaze ni dakarete,0,1991.0,,,,7.7,13,1990,good,,1,obscure
+tt0111139,movie,Sexual Outlaws,Sexual Outlaws,0,1994.0,,87.0,Thriller,4.2,199,1990,poor,short,0,obscure
+tt0431443,movie,Trannies,Trannies,0,2004.0,,,Comedy,7.3,26,2000,good,,1,obscure
+tt10701384,movie,Very Ralph,Very Ralph,0,2019.0,,108.0,Documentary,6.9,936,2010,average,standard,0,obscure
+tt7379472,movie,Invisible,Invisible: Gay Women in Southern Music,0,2021.0,,107.0,"Biography,Documentary,Music",8.1,209,2020,excellent,standard,1,obscure
+tt0459293,movie,"Gandhi, My Father","Gandhi, My Father",0,2007.0,,136.0,"Biography,Drama,History",7.3,1872,2000,good,long,1,known
+tt1411976,movie,Uruvangal Maralam,Uruvangal Maralam,0,1983.0,,,Comedy,7.4,45,1980,good,,1,obscure
+tt14465170,movie,Painted in Blood,Painted in Blood,0,2022.0,,84.0,Horror,4.6,234,2020,poor,short,0,obscure
+tt0171164,movie,Ces messieurs de la Santé,Ces messieurs de la Santé,0,1934.0,,115.0,"Comedy,Drama",6.6,169,1930,average,standard,0,obscure
+tt5777312,movie,The Latin Dream,The Latin Dream,0,2016.0,,,"Drama,Music,Romance",5.8,25,2010,average,,0,obscure
+tt3324286,movie,Home Sweet Home,Un village presque parfait,0,2014.0,,98.0,Comedy,6.0,914,2010,average,standard,0,obscure
+tt1615451,movie,Healing Neen,Healing Neen,0,2010.0,,55.0,"Biography,Documentary,Drama",8.8,27,2010,excellent,short,1,obscure
+tt0233331,movie,Bharya,Bharya,0,1962.0,,128.0,Drama,7.4,13,1960,good,long,1,obscure
+tt15678782,movie,Curral De Moinas - The People's Bankers,Curral de Moinas - Os Banqueiros do Povo,0,2022.0,,101.0,Comedy,6.1,576,2020,average,standard,0,obscure
+tt0027561,movie,Early to Bed,Vingt-cinq ans de fiançailles,0,1936.0,,75.0,"Comedy,Mystery,Romance",6.7,55,1930,average,short,0,obscure
+tt0393610,movie,Pretend,Pretend,0,2003.0,,75.0,Drama,7.4,22,2000,good,short,1,obscure
+tt0968261,movie,Cedie,Cedie,0,1996.0,,114.0,Family,7.6,74,1990,good,standard,1,obscure
+tt24634684,movie,Detective Conan TV Special Love Story at Police Headquarters Wedding Eve,Detective Conan TV Special Love Story at Police Headquarters Wedding Eve,0,2022.0,,,Animation,6.4,66,2020,average,,0,obscure
+tt0440511,movie,Die Jagd nach der Hundertpfundnote oder Die Reise um die Welt,Die Jagd nach der Hundertpfundnote oder Die Reise um die Welt,0,1913.0,,74.0,,5.2,18,1910,average,short,0,obscure
+tt27719492,movie,Vesuri,Vesuri,0,2019.0,,84.0,"Drama,War",5.6,15,2010,average,short,0,obscure
+tt29266159,movie,Enaku Endey Kidaiyaathu,Enaku Endey Kidaiyaathu,0,2023.0,,104.0,Mystery,5.7,194,2020,average,standard,0,obscure
+tt1533087,movie,Soda Springs,Soda Springs,0,2012.0,,115.0,Drama,6.2,515,2010,average,standard,0,obscure
+tt15036176,movie,Hai Tujhe Salaam India,Hai Tujhe Salaam India,0,2022.0,,102.0,Drama,7.8,43,2020,good,standard,1,obscure
+tt0201371,movie,Disintegration,Çözülmeler,0,1994.0,,100.0,Drama,6.3,69,1990,average,standard,0,obscure
+tt4170344,movie,I Called Him Morgan,I Called Him Morgan,0,2016.0,,92.0,"Documentary,Drama,History",7.3,2043,2010,good,standard,1,known
+tt1204386,movie,Palestine 1948: Nakba,Paresuchina 1948: Nakuba,0,2008.0,,,,8.4,12,2000,excellent,,1,obscure
+tt4807408,movie,The Best of Enemies,The Best of Enemies,0,2019.0,,133.0,"Biography,Drama,History",7.3,21601,2010,good,long,1,popular
+tt3498050,movie,Mokssh,Mokssh,0,2013.0,,100.0,"Drama,Musical",6.4,21,2010,average,standard,0,obscure
+tt3203962,movie,Second Thoughts,Cuak,0,2014.0,,114.0,"Comedy,Drama",7.5,13,2010,good,standard,1,obscure
+tt2168752,movie,The Journey: The Greek American Dream,The Journey: The Greek American Dream,0,2007.0,,,Documentary,7.8,15,2000,good,,1,obscure
+tt0285134,movie,El garañón,El garañón,0,1989.0,,85.0,Comedy,3.7,111,1980,poor,short,0,obscure
+tt15567964,movie,C.S.I Sanatan,C.S.I Sanatan,0,2023.0,,,"Crime,Thriller",4.6,2471,2020,poor,,0,known
+tt15126712,movie,Switch Up,Switch Up,0,2024.0,,105.0,"Comedy,Romance",8.1,37,2020,excellent,standard,1,obscure
+tt15475536,movie,A Ravaging Wind,El viento que arrasa,0,2023.0,,95.0,Drama,6.7,163,2020,average,standard,0,obscure
+tt0205714,movie,I 10 del Texas,I 10 del Texas,0,1961.0,,,,4.2,22,1960,poor,,0,obscure
+tt1548865,movie,12th & Delaware,12th & Delaware,0,2010.0,,81.0,"Documentary,Drama",7.2,631,2010,good,short,1,obscure
+tt0088203,movie,Summer's Children,Summer's Children,0,1979.0,,83.0,"Drama,Mystery",5.5,28,1970,average,short,0,obscure
+tt8549590,movie,Chiwawa,Chiwawa-chan,0,2019.0,,104.0,"Drama,Mystery",6.3,317,2010,average,standard,0,obscure
+tt0161026,movie,Twisted,Twisted,1,1991.0,,67.0,"Adult,Romance",7.7,38,1990,good,short,1,obscure
+tt0375810,movie,Ishimatsu: The One-Eyed Avenger,Hibari no mori no ishimatsu,0,1960.0,,83.0,Action,6.7,33,1960,average,short,0,obscure
+tt1111914,movie,Kadha Parayumbol...,Kadha Parayumbol...,0,2007.0,,130.0,"Comedy,Drama",7.7,1736,2000,good,long,1,known
+tt0008138,movie,The Innocent Sinner,The Innocent Sinner,0,1917.0,,60.0,Drama,4.0,18,1910,poor,short,0,obscure
+tt1587223,movie,Miss Tacuarembó,Miss Tacuarembó,0,2010.0,,92.0,"Comedy,Drama,Musical",6.1,314,2010,average,standard,0,obscure
+tt0218839,movie,Best in Show,Best in Show,0,2000.0,,90.0,Comedy,7.5,74164,2000,good,short,1,popular
+tt0052039,movie,Outcasts of the City,Outcasts of the City,0,1958.0,,61.0,"Drama,Romance",6.1,16,1950,average,short,0,obscure
+tt5084358,movie,Nochnoy zvonok,Nochnoy zvonok,0,1970.0,,60.0,Drama,6.2,27,1970,average,short,0,obscure
+tt0358164,movie,Making of a Prostitute,Die Spalte,0,1971.0,,85.0,Drama,5.1,234,1970,average,short,0,obscure
+tt11616262,movie,It's a Love Thang,It's a Love Thang,0,2019.0,,,Family,8.1,13,2010,excellent,,1,obscure
+tt0047878,movie,The Big Combo,The Big Combo,0,1955.0,,87.0,"Crime,Drama,Film-Noir",7.3,9839,1950,good,short,1,known
+tt0847093,movie,SistaGod,SistaGod,0,2006.0,,72.0,Drama,6.8,28,2000,average,short,0,obscure
+tt0152899,movie,Tampon Tango,Tampon Tango,1,1984.0,,56.0,"Adult,Comedy",4.9,72,1980,poor,short,0,obscure
+tt0312935,movie,La maestra inolvidable,La maestra inolvidable,0,1969.0,,105.0,"Drama,Family,Romance",6.9,32,1960,average,standard,0,obscure
+tt3738624,movie,Drishya,Drishya,0,2014.0,,154.0,"Drama,Thriller",8.3,905,2010,excellent,long,1,obscure
+tt0416220,movie,Kamikaze Girls,Shimotsuma monogatari,0,2004.0,,102.0,Comedy,7.2,8957,2000,good,standard,1,known
+tt14039874,movie,Abhi's Kshana Kshanam,Abhi's Kshana Kshanam,0,2021.0,,,Thriller,8.9,14,2020,excellent,,1,obscure
+tt0058142,movie,Girl with Green Eyes,Girl with Green Eyes,0,1964.0,,91.0,"Drama,Romance",6.9,1633,1960,average,standard,0,known
+tt0818634,movie,Veer Ghatotkach,Veer Ghatotkach,0,1970.0,,130.0,Adventure,6.6,14,1970,average,long,0,obscure
+tt0422805,movie,My Right to Ravage Myself,Naneun nareul pagoehal gwolliga itda,0,2003.0,,93.0,Drama,6.5,26,2000,average,standard,0,obscure
+tt1193624,movie,Captain Eager and the Mark of Voth,Captain Eager and the Mark of Voth,0,2008.0,,95.0,Sci-Fi,4.4,100,2000,poor,standard,0,obscure
+tt1733119,movie,Dagim,Dagim,0,2010.0,,,Horror,6.3,12,2010,average,,0,obscure
+tt0114898,movie,Waterworld,Waterworld,0,1995.0,,135.0,"Action,Adventure,Sci-Fi",6.3,223215,1990,average,long,0,blockbuster
+tt9657916,movie,Out in the Ring,Out in the Ring,0,2022.0,,105.0,Documentary,6.4,86,2020,average,standard,0,obscure
+tt0070286,movie,"Lars Ole, 5th Grade","Lars Ole, 5c",0,1973.0,,84.0,Drama,6.3,231,1970,average,short,0,obscure
+tt0449062,movie,Lost in Plainview,Lost in Plainview,0,2005.0,,91.0,"Action,Thriller",4.2,246,2000,poor,standard,0,obscure
+tt1399081,movie,Red Chillies,Red Chillies,0,2009.0,,,"Action,Crime,Thriller",3.7,476,2000,poor,,0,obscure
+tt4765868,movie,Mortuary Massacre,Mortuary Massacre,0,2017.0,,83.0,Horror,4.3,32,2010,poor,short,0,obscure
+tt10754206,movie,Hip Hop Holiday,Hip Hop Holiday,0,2019.0,,87.0,Comedy,6.9,108,2010,average,short,0,obscure
+tt0118840,movie,The Manson Family,The Manson Family,0,1997.0,,95.0,"Crime,Drama,History",5.5,3493,1990,average,standard,0,known
+tt0032379,movie,Danger Ahead,Danger Ahead,0,1940.0,,60.0,Adventure,5.0,51,1940,poor,short,0,obscure
+tt5974402,movie,The Road to Mandalay,The Road to Mandalay,0,2016.0,,108.0,Drama,6.9,791,2010,average,standard,0,obscure
+tt3338434,movie,Ivan Tsarevich & the Grey Wolf 2,Ivan Tsarevich i Seryy Volk 2,0,2013.0,,85.0,"Adventure,Animation,Family",5.2,898,2010,average,short,0,obscure
+tt8618118,movie,The Plagues of Breslau,Plagi Breslau,0,2018.0,,110.0,"Action,Crime,Mystery",6.0,6134,2010,average,standard,0,known
+tt0061011,movie,The Spy Who Loved Flowers,Le spie amano i fiori,0,1966.0,,93.0,"Action,Sci-Fi",5.2,138,1960,average,standard,0,obscure
+tt0107435,movie,La Lola se va a los puertos,La Lola se va a los puertos,0,1993.0,,105.0,"Drama,Musical",4.8,64,1990,poor,standard,0,obscure
+tt0976099,movie,La cáscara,La cáscara,0,2007.0,,105.0,"Comedy,Drama",5.3,106,2000,average,standard,0,obscure
+tt9790536,movie,Light in the Tropics,Luz nos Trópicos,0,2020.0,,260.0,Drama,6.8,69,2020,average,long,0,obscure
+tt0070614,movie,Rugantino,Rugantino,0,1973.0,,110.0,"Comedy,Romance",5.8,429,1970,average,standard,0,obscure
+tt6236990,movie,Okhrana,Okhrana,0,2016.0,,116.0,"Comedy,Drama",5.6,25,2010,average,standard,0,obscure
+tt0139062,movie,Here Is the Beauty,La belle que voilà,0,1950.0,,115.0,Drama,4.2,29,1950,poor,standard,0,obscure
+tt14642156,movie,Reunion from Hell 2,Reunion from Hell 2,0,2022.0,,98.0,Horror,3.0,204,2020,poor,standard,0,obscure
+tt12680102,movie,Ebola Rex,Ebola Rex,0,2021.0,,72.0,Horror,2.0,235,2020,poor,short,0,obscure
+tt0040779,movie,Shed No Tears,Shed No Tears,0,1948.0,,70.0,"Crime,Drama,Film-Noir",6.3,545,1940,average,short,0,obscure
+tt0285656,movie,Klamstwo Krystyny,Klamstwo Krystyny,0,1939.0,,93.0,Drama,6.3,26,1930,average,standard,0,obscure
+tt3851746,movie,Max & Lenny,Max & Lenny,0,2014.0,,86.0,Drama,6.3,58,2010,average,short,0,obscure
+tt0273607,movie,Festival in Cannes,Festival in Cannes,0,2001.0,,100.0,Comedy,6.0,660,2000,average,standard,0,obscure
+tt27819390,movie,Freddy's Fridays,Freddy's Fridays,0,2023.0,,77.0,Horror,3.4,821,2020,poor,short,0,obscure
+tt15765370,movie,Return of the Salem Witch,Return of the Salem Witch,0,2022.0,,81.0,Horror,4.2,75,2020,poor,short,0,obscure
+tt0089036,movie,Doin' Time,Doin' Time,0,1985.0,,81.0,Comedy,4.7,316,1980,poor,short,0,obscure
+tt5002544,movie,Miracle Maker,Miracle Maker,0,2015.0,,90.0,Family,6.8,381,2010,average,short,0,obscure
+tt0198844,movie,Not Wanted on Voyage,Not Wanted on Voyage,0,1957.0,,82.0,Comedy,5.2,104,1950,average,short,0,obscure
+tt7298260,movie,Dennis and Lois,Dennis and Lois,0,2019.0,,85.0,"Biography,Documentary,Music",7.9,71,2010,good,short,1,obscure
+tt0051906,movie,Mannequin in Red,Mannekäng i rött,0,1958.0,,108.0,"Mystery,Thriller",6.3,739,1950,average,standard,0,obscure
+tt0276824,movie,Bhishma,Bhishma,0,1962.0,,165.0,"Drama,Musical",8.3,42,1960,excellent,long,1,obscure
+tt0954981,movie,Cass,Cass,0,2008.0,,108.0,"Biography,Crime,Drama",6.4,6835,2000,average,standard,0,known
+tt28657881,movie,The Darkness within La Luz del Mundo,La oscuridad de La Luz del Mundo,0,2023.0,,113.0,"Crime,Documentary",7.0,593,2020,average,standard,1,obscure
+tt0054849,movie,Epitaph to My Love,Waga koi no tabiji,0,1961.0,,90.0,"Drama,Romance",6.3,53,1960,average,short,0,obscure
+tt0039688,movie,Out of the Blue,Out of the Blue,0,1947.0,,84.0,Comedy,6.4,656,1940,average,short,0,obscure
+tt4466494,movie,Everyday Heroes,Et les mistrals gagnants,0,2016.0,,79.0,Documentary,7.4,209,2010,good,short,1,obscure
+tt0032069,movie,Typhoon Treasure,Typhoon Treasure,0,1938.0,,68.0,"Action,Adventure",3.9,24,1930,poor,short,0,obscure
+tt23170190,movie,Residency,Residency,0,2023.0,,75.0,"Documentary,Horror",5.0,19,2020,poor,short,0,obscure
+tt0235226,movie,Ma Femme Chamada Bicho,Ma Femme Chamada Bicho,0,1978.0,,80.0,Documentary,7.3,23,1970,good,short,1,obscure
+tt0463429,movie,Bharathchandran I.P.S,Bharathchandran I.P.S,0,2005.0,,120.0,"Action,Thriller",5.7,344,2000,average,standard,0,obscure
+tt2625968,movie,Early Winter,Early Winter,0,2015.0,,96.0,Drama,5.9,146,2010,average,standard,0,obscure
+tt6242262,movie,La vallée des loups,La vallée des loups,0,2016.0,,90.0,Documentary,7.4,128,2010,good,short,1,obscure
+tt0078760,movie,Cindy's Love Games,Amanti miei,0,1979.0,,86.0,"Comedy,Drama",4.2,170,1970,poor,short,0,obscure
+tt0487090,movie,Dummy,Dummy,0,2005.0,,50.0,"Adventure,Comedy,Thriller",5.5,29,2000,average,short,0,obscure
+tt0319137,movie,La camioneta gris,La camioneta gris,0,1990.0,,90.0,"Action,Crime,Thriller",7.6,41,1990,good,short,1,obscure
+tt1515059,movie,Family Affair,Family Affair,0,2010.0,,80.0,"Documentary,Family",7.4,202,2010,good,short,1,obscure
+tt0259244,movie,Chandan,Chandan,0,1958.0,,158.0,"Comedy,Drama,Family",6.7,12,1950,average,long,0,obscure
+tt10820234,movie,The Fan Connection,The Fan Connection,0,2019.0,,93.0,Documentary,9.3,85,2010,excellent,standard,1,obscure
+tt0157071,movie,Sub Ka Saathi,Sub Ka Saathi,0,1972.0,,,"Drama,Family",7.0,13,1970,average,,1,obscure
+tt1918641,movie,5ters: Castle of Dark Master,5ters: Castle of Dark Master,0,2011.0,,110.0,"Action,Adventure,Fantasy",6.0,31,2010,average,standard,0,obscure
+tt0047301,movie,Onnelliset,Onnelliset,0,1954.0,,103.0,Drama,5.0,40,1950,poor,standard,0,obscure
+tt1663216,movie,Rail Truck,Torocco,0,2009.0,,116.0,Drama,5.4,40,2000,average,standard,0,obscure
+tt7222308,movie,My Babysitter the Super Hero,My Babysitter the Super Hero,0,2022.0,,90.0,Family,4.2,73,2020,poor,short,0,obscure
+tt0199454,movie,The West Wall,Der Westwall,0,1939.0,,46.0,Documentary,3.5,14,1930,poor,short,0,obscure
+tt0009929,movie,Big Little Person,Big Little Person,0,1919.0,,60.0,Drama,7.2,17,1910,good,short,1,obscure
+tt0273906,movie,Ochnaya stavka,Ochnaya stavka,0,1987.0,,90.0,"Crime,Drama,Mystery",5.7,33,1980,average,short,0,obscure
+tt0053860,movie,Geständnis einer Sechzehnjährigen,Geständnis einer Sechzehnjährigen,0,1961.0,,80.0,Drama,5.8,17,1960,average,short,0,obscure
+tt0269276,movie,Gilbert Harding Speaking of Murder,Gilbert Harding Speaking of Murder,0,1953.0,,,Horror,4.4,12,1950,poor,,0,obscure
+tt1117983,movie,My Normal,My Normal,0,2009.0,,77.0,"Drama,Romance",4.3,836,2000,poor,short,0,obscure
+tt0163566,movie,The Stranger,The Stranger,0,2000.0,,95.0,Thriller,4.6,118,2000,poor,standard,0,obscure
+tt4554036,movie,Männertag,Männertag,0,2016.0,,91.0,Comedy,5.2,429,2010,average,standard,0,obscure
+tt10471386,movie,The Borderline. Hrubieszów Operation,The Borderline. Hrubieszów Operation,0,2019.0,,52.0,"Documentary,Drama,History",8.7,18,2010,excellent,short,1,obscure
+tt18329424,movie,Mending Mylo,Mending Mylo,0,2022.0,,,Biography,4.4,11,2020,poor,,0,obscure
+tt5756126,movie,Hoggeren,Hoggeren,0,2017.0,,82.0,"Comedy,Drama",6.3,192,2010,average,short,0,obscure
+tt1182350,movie,You Will Meet a Tall Dark Stranger,You Will Meet a Tall Dark Stranger,0,2010.0,,98.0,"Comedy,Drama,Romance",6.3,48725,2010,average,standard,0,popular
+tt1714897,movie,Journey to Mytilene,Taxidi sti Mytilini,0,2010.0,,105.0,Drama,6.2,163,2010,average,standard,0,obscure
+tt1175500,movie,How 2 Build a Rapper,How 2 Build a Rapper,0,2008.0,,90.0,Comedy,5.9,33,2000,average,short,0,obscure
+tt0273201,movie,Enchanted Forest,Ewiger Wald,0,1936.0,,75.0,Documentary,5.6,62,1930,average,short,0,obscure
+tt22777836,movie,Anxious Nation,Anxious Nation,0,2022.0,,101.0,Documentary,7.0,42,2020,average,standard,1,obscure
+tt6224426,movie,Basamtit Reesha,Basamtit Reesha,0,2016.0,,100.0,Comedy,8.9,15,2010,excellent,standard,1,obscure
+tt0162230,movie,The Ceremony of the Senses,La cerimonia dei sensi,0,1979.0,,90.0,"Crime,Drama",5.0,110,1970,poor,short,0,obscure
+tt0405807,movie,Brooklyn Bound,Brooklyn Bound,0,2004.0,,90.0,"Crime,Drama",5.5,144,2000,average,short,0,obscure
+tt14591362,movie,Architecture of Ra,Architecture of Ra,0,2021.0,,75.0,Documentary,7.7,19,2020,good,short,1,obscure
+tt8737680,movie,Posljednji dani ljeta,Posljednji dani ljeta,0,2019.0,,75.0,Drama,5.4,45,2010,average,short,0,obscure
+tt10270122,movie,Gold Is All There Is,Gold Is All There Is,0,2019.0,,100.0,Documentary,7.1,19,2010,good,standard,1,obscure
+tt0191094,movie,Os dois Ladrões,Os dois Ladrões,0,1960.0,,85.0,"Comedy,Crime",7.6,55,1960,good,short,1,obscure
+tt0237830,movie,Tigers of the Ring,Los tigres del ring,0,1960.0,,87.0,"Action,Crime,Drama",6.7,16,1960,average,short,0,obscure
+tt6087270,movie,The Block,Blocul,0,2016.0,,60.0,Documentary,7.4,10,2010,good,short,1,obscure
+tt7841916,movie,Shelter me: Apollo House,Shelter me: Apollo House,0,2018.0,,64.0,Documentary,8.5,15,2010,excellent,short,1,obscure
+tt20194830,movie,Sisterhood,De Z van Zus,0,2024.0,,120.0,Comedy,6.5,556,2020,average,standard,0,obscure
+tt13615030,movie,The Road to Galena,The Road to Galena,0,2022.0,,110.0,Drama,5.5,232,2020,average,standard,0,obscure
+tt5936438,movie,Star Paws,Star Paws,0,2016.0,,77.0,"Adventure,Animation,Comedy",5.3,96,2010,average,short,0,obscure
+tt0071465,movie,Demon Witch Child,La endemoniada,0,1975.0,,90.0,Horror,5.1,786,1970,average,short,0,obscure
+tt0259842,movie,The Magnificent Guardian,Ajooba Kudrat Ka,0,1991.0,,,"Action,Adventure,Fantasy",5.0,48,1990,poor,,0,obscure
+tt3963226,movie,Abruptio,Abruptio,0,2023.0,,96.0,"Animation,Horror",6.1,771,2020,average,standard,0,obscure
+tt0228906,movie,Striptease Baby Dolls from Cleveland Meet the Unkillables,Striptease Baby Dolls from Cleveland Meet the Unkillables,0,2005.0,,80.0,"Action,Comedy,Crime",5.8,21,2000,average,short,0,obscure
+tt0334482,movie,Thenkasipattanam,Thenkasipattanam,0,2000.0,,150.0,"Comedy,Romance",7.6,1254,2000,good,long,1,known
+tt1996310,movie,Lore,Lore,0,2012.0,,109.0,"Drama,Romance,War",7.1,16459,2010,good,standard,1,popular
+tt20768892,movie,Exhibition on Screen: Pissarro: Father of Impressionism,Exhibition On Screen: Pissarro: Father of Impressionism,0,2022.0,,94.0,Documentary,7.5,56,2020,good,standard,1,obscure
+tt21381160,movie,Verlorenen,Verlorenen,0,2022.0,,82.0,Thriller,5.7,18,2020,average,short,0,obscure
+tt0111276,movie,Stalked,Stalked,0,1994.0,,95.0,"Crime,Horror,Thriller",5.2,260,1990,average,standard,0,obscure
+tt0057223,movie,The River Line,Kennwort... Reiher,0,1964.0,,95.0,"Drama,War",7.6,48,1960,good,standard,1,obscure
+tt12024724,movie,Birendra Krishna Bhadra,Birendra Krishna Bhadra,0,2019.0,,66.0,Biography,8.9,22,2010,excellent,short,1,obscure
+tt2043814,movie,Crazy Horse,Crazy Horse,0,2011.0,,134.0,Documentary,6.5,931,2010,average,long,0,obscure
+tt0059137,movie,Sunday at Six,Duminica la ora 6,0,1966.0,,76.0,Drama,7.3,315,1960,good,short,1,obscure
+tt2133204,movie,Construction,Construction,0,2021.0,,104.0,"Comedy,Romance",7.7,58,2020,good,standard,1,obscure
+tt0252090,movie,W/O V.Varaprasad,W/O V.Varaprasad,0,1998.0,,124.0,Drama,6.2,30,1990,average,long,0,obscure
+tt0125384,movie,A Happy Divorce,Un divorce heureux,0,1975.0,,102.0,Drama,5.4,98,1970,average,standard,0,obscure
+tt10817348,movie,Cupid,Cupid,0,2020.0,,83.0,Horror,3.5,1763,2020,poor,short,0,known
+tt7827568,movie,Secret Drawings,Mi mi tu zhi,0,1965.0,,77.0,Drama,6.1,16,1960,average,short,0,obscure
+tt10990970,movie,Ouija Craft,Ouija Craft,0,2020.0,,81.0,"Fantasy,Horror",3.1,261,2020,poor,short,0,obscure
+tt16376494,movie,Descendant,Descendant,0,2022.0,,109.0,"Documentary,History",7.1,1563,2020,good,standard,1,known
+tt0258068,movie,The Quiet American,The Quiet American,0,2002.0,,101.0,"Drama,Romance,Thriller",7.0,30983,2000,average,standard,1,popular
+tt28083228,movie,Sunfall,Sunfall,0,2024.0,,74.0,Action,2.5,63,2020,poor,short,0,obscure
+tt4335520,movie,CODE: Debugging the Gender Gap,Code: Debugging the Gender Gap,0,2015.0,,80.0,"Biography,Documentary,Family",6.1,337,2010,average,short,0,obscure
+tt3698640,movie,Only the River Knows,Only the River Knows,0,2012.0,,84.0,"Documentary,Drama,Sport",6.3,20,2010,average,short,0,obscure
+tt0139693,movie,Os Vagabundos Trapalhões,Os Vagabundos Trapalhões,0,1982.0,,96.0,"Comedy,Drama,Family",5.4,284,1980,average,standard,0,obscure
+tt2313534,movie,Acoustic,Eokuseutig,0,2010.0,,88.0,"Drama,Music",5.9,71,2010,average,short,0,obscure
+tt0000879,movie,Gira política de Madero y Pino Suárez,Gira política de Madero y Pino Suárez,0,1909.0,,,,2.2,17,1900,poor,,0,obscure
+tt0046921,movie,Doctor in the House,Doctor in the House,0,1954.0,,92.0,Comedy,6.5,1763,1950,average,standard,0,known
+tt0098325,movie,Sidewalk Stories,Sidewalk Stories,0,1989.0,,97.0,"Comedy,Drama",7.2,681,1980,good,standard,1,obscure
+tt14127738,movie,The Sleepless Unrest: The Real Conjuring Home,The Sleepless Unrest: The Real Conjuring Home,0,2021.0,,80.0,"Documentary,Horror,Mystery",3.8,1340,2020,poor,short,0,known
+tt12217234,movie,Gandhi Pirantha Mann,Gandhi Pirantha Mann,0,1995.0,,155.0,Action,6.2,14,1990,average,long,0,obscure
+tt0140383,movie,Mitsou,Mitsou ou Comment l'esprit vient aux filles...,0,1956.0,,92.0,Comedy,5.8,45,1950,average,standard,0,obscure
+tt0091468,movie,Man Outside,Man Outside,0,1987.0,,97.0,"Drama,Thriller",6.1,123,1980,average,standard,0,obscure
+tt0036139,movie,The Mantrap,The Mantrap,0,1943.0,,57.0,Mystery,6.8,80,1940,average,short,0,obscure
+tt7776584,movie,Memoir,Hello Jam Rao Dai Mai,0,2017.0,,98.0,"Horror,Mystery",5.9,15,2010,average,standard,0,obscure
+tt0326234,movie,True Icelandic Crimes,Sönn íslensk sakamál,0,1998.0,,,Crime,9.0,59,1990,excellent,,1,obscure
+tt0100594,movie,The Sheltering Sky,The Sheltering Sky,0,1990.0,,138.0,"Adventure,Drama",6.7,14690,1990,average,long,0,popular
+tt0031508,movie,Girls in Distress,Jeunes filles en détresse,0,1939.0,,90.0,"Comedy,Drama",6.2,78,1930,average,short,0,obscure
+tt20870350,movie,Steel Gaze: An Unauthorized Story on Clint Eastwood,Steel Gaze: An Unauthorized Story on Clint Eastwood,0,2010.0,,48.0,"Biography,Documentary",6.7,11,2010,average,short,0,obscure
+tt1612059,movie,Swayamvaram,Swayamvaram,0,1999.0,,,"Drama,Romance",6.8,145,1990,average,,0,obscure
+tt0283653,movie,Hungry Soul,Ueru tamashii,0,1956.0,,79.0,"Drama,Romance",6.7,322,1950,average,short,0,obscure
+tt4654908,movie,Sirens and Screams,Sirens and Screams,0,2015.0,,80.0,"Crime,Drama,Mystery",6.0,60,2010,average,short,0,obscure
+tt7335104,movie,Goldie,Goldie,0,2019.0,,88.0,Drama,5.7,1229,2010,average,short,0,known
+tt0083824,movie,Quarter to Two Before Jesus Christ,Deux heures moins le quart avant Jésus-Christ,0,1982.0,,100.0,Comedy,5.8,1915,1980,average,standard,0,known
+tt0031310,movie,It Always Ends That Way,Finisce sempre così,0,1939.0,,68.0,Musical,5.0,16,1930,poor,short,0,obscure
+tt0202904,movie,His Destiny,His Destiny,0,1928.0,,,"Drama,Western",5.7,13,1920,average,,0,obscure
+tt2315792,movie,Ex Abyssus,Ex Abyssus,0,2012.0,,50.0,"Fantasy,Horror,Thriller",7.6,40,2010,good,short,1,obscure
+tt1097209,movie,"Ami, Yasin Ar Amar Madhubala","Ami, Yasin Ar Amar Madhubala",0,2007.0,,115.0,Drama,6.4,72,2000,average,standard,0,obscure
+tt1488032,movie,Pickman's Muse,Pickman's Muse,0,2010.0,,77.0,"Horror,Sci-Fi,Thriller",5.5,375,2010,average,short,0,obscure
+tt0038058,movie,Scotland Yard Investigator,Scotland Yard Investigator,0,1945.0,,68.0,"Action,Crime,Mystery",6.2,152,1940,average,short,0,obscure
+tt8820198,movie,Waiting for the Punchline,Waiting for the Punchline,0,2019.0,,76.0,Documentary,8.6,37,2010,excellent,short,1,obscure
+tt0033720,movie,Hit the Road,Hit the Road,0,1941.0,,61.0,Drama,6.0,64,1940,average,short,0,obscure
+tt4267108,movie,Most Likely to Succeed,Most Likely to Succeed,0,2015.0,,86.0,"Documentary,Drama,News",8.0,182,2010,good,short,1,obscure
+tt0030312,movie,Queen of Crime,Kate Plus Ten,0,1938.0,,55.0,"Crime,Drama,Thriller",6.2,74,1930,average,short,0,obscure
+tt30835200,movie,The in Between,The in Between,0,2024.0,,82.0,Documentary,5.8,28,2020,average,short,0,obscure
+tt29117891,movie,Oruvattam Koodi,Oruvattam Koodi,0,2023.0,,134.0,Romance,3.6,154,2020,poor,long,0,obscure
+tt0039539,movie,Krakatit,Krakatit,0,1948.0,,97.0,"Drama,Mystery,Sci-Fi",7.2,557,1940,good,standard,1,obscure
+tt0104454,movie,Howards End,Howards End,0,1992.0,,142.0,"Drama,Romance",7.3,38405,1990,good,long,1,popular
+tt1716739,movie,Dead in France,Dead in France,0,2012.0,,88.0,"Comedy,Crime,Thriller",4.4,295,2010,poor,short,0,obscure
+tt8183152,movie,Space Captain and Callista,Space Captain and Callista,0,2019.0,,103.0,Drama,5.3,11,2010,average,standard,0,obscure
+tt0071824,movie,McQ,McQ,0,1974.0,,111.0,"Action,Crime,Drama",6.2,6475,1970,average,standard,0,known
+tt11197754,movie,Scars,Blizny,0,2020.0,,80.0,Documentary,8.4,45,2020,excellent,short,1,obscure
+tt0005916,movie,After Death,Posle smerti,0,1915.0,,46.0,"Drama,Horror",6.8,1125,1910,average,short,0,known
+tt0139354,movie,Hawaii Vice 6,Hawaii Vice 6,1,1989.0,,73.0,"Adult,Crime",6.5,144,1980,average,short,0,obscure
+tt1297297,movie,Rock n Roll Nerd,Rock n Roll Nerd,0,2008.0,,89.0,"Biography,Comedy,Documentary",7.8,379,2000,good,short,1,obscure
+tt5434562,movie,Darkness of Otherwhere,Darkness of Otherwhere,0,2020.0,,84.0,"Mystery,Thriller",7.5,10,2020,good,short,1,obscure
+tt0301172,movie,Death Tide,Death Tide,0,1955.0,,46.0,"Crime,Drama",3.5,57,1950,poor,short,0,obscure
+tt3817724,movie,Global Shopping Village,Global Shopping Village,0,2014.0,,80.0,"Documentary,News",7.6,25,2010,good,short,1,obscure
+tt15238886,movie,3 Days,3 Days,0,2023.0,,125.0,Crime,8.2,159,2020,excellent,long,1,obscure
+tt0187254,movie,Crazy Days,Ludi dani,0,1977.0,,102.0,Drama,7.1,157,1970,good,standard,1,obscure
+tt0100114,movie,Marked for Death,Marked for Death,0,1990.0,,93.0,"Action,Crime,Drama",5.9,26115,1990,average,standard,0,popular
+tt0449003,movie,Dead Long Enough,Dead Long Enough,0,2006.0,,,"Comedy,Romance",5.3,483,2000,average,,0,obscure
+tt7547158,movie,Ghost Squad,Gôsuto sukuwaddo,0,2018.0,,106.0,"Action,Comedy,Horror",4.7,556,2010,poor,standard,0,obscure
+tt0477067,movie,Poison Dust,Poison Dust,0,2005.0,,84.0,Documentary,7.5,15,2000,good,short,1,obscure
+tt0208419,movie,Santo vs. the King of Crime,Santo contra el rey del crimen,0,1962.0,,86.0,"Action,Crime,Drama",5.6,69,1960,average,short,0,obscure
+tt0072956,movie,"Eva, ¿qué hace ese hombre en tu cama?","Eva, ¿qué hace ese hombre en tu cama?",0,1975.0,,90.0,Comedy,5.6,47,1970,average,short,0,obscure
+tt1822394,movie,Paradox Alice,Paradox Alice,0,2012.0,,115.0,Sci-Fi,3.5,428,2010,poor,standard,0,obscure
+tt4885016,movie,The Discrete Charm of Geometry,The Discrete Charm of Geometry,0,2015.0,,66.0,Documentary,7.7,209,2010,good,short,1,obscure
+tt3180128,movie,Watch This,Watch This,0,2013.0,,,Horror,7.0,16,2010,average,,1,obscure
+tt0291053,movie,Brigada explosiva contra los ninjas,Brigada explosiva contra los ninjas,0,1986.0,,70.0,"Action,Adventure,Comedy",5.2,225,1980,average,short,0,obscure
+tt27336176,movie,Luciano Ligabue: 30 anni in un giorno,Luciano Ligabue: 30 anni in un giorno,0,2023.0,,,"Documentary,Music",7.7,23,2020,good,,1,obscure
+tt0469074,movie,Everyone Their Grain of Sand,Everyone Their Grain of Sand,0,2005.0,,87.0,Documentary,7.4,19,2000,good,short,1,obscure
+tt0041398,movie,Bad Girl,Furyô shôjo,0,1949.0,,85.0,Drama,8.1,14,1940,excellent,short,1,obscure
+tt0404749,movie,Ah bu dünya,Ah bu dünya,0,1965.0,,73.0,"Drama,Romance",5.2,34,1960,average,short,0,obscure
+tt6537548,movie,Grab and Run,Grab and Run,0,2017.0,,85.0,Documentary,7.5,38,2010,good,short,1,obscure
+tt0114306,movie,Rumpelstiltskin,Rumpelstiltskin,0,1995.0,,87.0,"Comedy,Fantasy,Horror",4.6,3030,1990,poor,short,0,known
+tt0209174,movie,Nobody Knows Anybody,Nadie conoce a nadie,0,1999.0,,108.0,"Drama,Thriller",5.9,2691,1990,average,standard,0,known
+tt10063028,movie,Puck & Hans: Made in Holland,Puck & Hans: Made in Holland,0,2019.0,,52.0,Documentary,8.0,13,2010,good,short,1,obscure
+tt0028772,movie,A Day at the Races,A Day at the Races,0,1937.0,,111.0,"Comedy,Family,Musical",7.5,15289,1930,good,standard,1,popular
+tt15509662,movie,Nallamala,Nallamala,0,2022.0,,132.0,"Action,Drama,History",7.5,1474,2020,good,long,1,known
+tt0070562,movie,Prisoners,Prisoners,0,1975.0,,88.0,"Crime,Drama,War",6.9,21,1970,average,short,0,obscure
+tt5919064,movie,7:20 Once a Week,En tu piel,0,2018.0,,76.0,"Drama,Romance",5.1,555,2010,average,short,0,obscure
+tt8033682,movie,Nolok,Nolok,0,2019.0,,,"Action,Comedy,Drama",7.0,555,2010,average,,1,obscure
+tt0290154,movie,Caminos de Michoacán,Caminos de Michoacán,0,1979.0,,96.0,"Drama,Music",5.2,11,1970,average,standard,0,obscure
+tt0204142,movie,Objective Murder,Appuntamento a Dallas,0,1964.0,,83.0,Drama,3.9,13,1960,poor,short,0,obscure
+tt0217235,movie,Adultery,Adulterio,0,1945.0,,90.0,Drama,6.5,12,1940,average,short,0,obscure
+tt0119163,movie,Full Blast,Full Blast,0,1999.0,,91.0,"Action,Thriller",5.8,83,1990,average,standard,0,obscure
+tt3142234,movie,Our Man in Tehran,Our Man in Tehran,0,2013.0,,85.0,"Documentary,History",7.4,290,2010,good,short,1,obscure
+tt0046770,movie,Betrayed,Betrayed,0,1954.0,,108.0,"Drama,Romance,Thriller",6.1,1475,1950,average,standard,0,known
+tt0065792,movie,"Goya, historia de una soledad","Goya, historia de una soledad",0,1971.0,,110.0,"Biography,Drama",6.7,46,1970,average,standard,0,obscure
+tt3479552,movie,L'éclat furtif de l'ombre,L'éclat furtif de l'ombre,0,2014.0,,90.0,Drama,6.5,18,2010,average,short,0,obscure
+tt14315966,movie,Ferroequinology,Ferroequinology,0,2021.0,,66.0,Documentary,6.8,16,2020,average,short,0,obscure
+tt1888595,movie,Superstars,Super Hap,0,2008.0,,90.0,"Comedy,Romance",6.8,90,2000,average,short,0,obscure
+tt1762300,movie,One Life,One Life,0,2011.0,,85.0,"Documentary,Family",7.9,2801,2010,good,short,1,known
+tt0138861,movie,Tavaratalo Lapatossu & Vinski,Tavaratalo Lapatossu & Vinski,0,1940.0,,110.0,Comedy,4.5,69,1940,poor,standard,0,obscure
+tt3635152,movie,My Dog Dou Dou,Wo De Gou Dou Dou,0,2012.0,,99.0,Drama,6.3,24,2010,average,standard,0,obscure
+tt0064389,movie,The Wanderer,Le grand Meaulnes,0,1967.0,,103.0,"Drama,Romance",6.6,309,1960,average,standard,0,obscure
+tt2982114,movie,Awan Dania: The Movie,Awan Dania: The Movie,0,2013.0,,99.0,"Comedy,Family,Romance",7.0,13,2010,average,standard,1,obscure
+tt15198280,movie,Amma - sound of the soul,Amma - sound of the soul,0,2022.0,,70.0,Musical,9.4,22,2020,excellent,short,1,obscure
+tt2945344,movie,Kvartirantka,Kvartirantka,0,2008.0,,91.0,"Comedy,Drama",5.0,27,2000,poor,standard,0,obscure
+tt0202623,movie,The Third Wheel,The Third Wheel,0,2002.0,,91.0,"Comedy,Romance",5.4,5112,2000,average,standard,0,known
+tt2048724,movie,Daar Kom Tant Alie,Daar Kom Tant Alie,0,1976.0,,86.0,Comedy,7.3,13,1970,good,short,1,obscure
+tt6685034,movie,Imperfect Journey,Imperfect Journey,0,1994.0,,88.0,Documentary,7.1,10,1990,good,short,1,obscure
+tt0241183,movie,Angels Don't Sleep Here,Angels Don't Sleep Here,0,2002.0,,88.0,Thriller,2.7,659,2000,poor,short,0,obscure
+tt0117894,movie,Thinner,Thinner,0,1996.0,,93.0,"Fantasy,Horror",5.8,36666,1990,average,standard,0,popular
+tt0091828,movie,Raw Deal,Raw Deal,0,1986.0,,106.0,"Action,Crime,Thriller",5.6,40740,1980,average,standard,0,popular
+tt3479624,movie,The Cartel,Kartellet,0,2014.0,,100.0,"Crime,Drama",6.2,1004,2010,average,standard,0,known
+tt0180217,movie,Sumnjivo lice,Sumnjivo lice,0,1954.0,,85.0,Comedy,7.8,97,1950,good,short,1,obscure
+tt4753902,movie,Le frise ignoranti,Le frise ignoranti,0,2015.0,,,Comedy,5.3,36,2010,average,,0,obscure
+tt0113571,movie,Der Kopf des Mohren,Der Kopf des Mohren,0,1995.0,,120.0,"Drama,Horror",6.7,168,1990,average,standard,0,obscure
+tt26940967,movie,5 Rounds (Khamas Gawlat),5 Rounds (Khamas Gawlat),0,2023.0,,105.0,"Action,Drama,Sport",5.3,120,2020,average,standard,0,obscure
+tt0025774,movie,She Loves Me Not,She Loves Me Not,0,1934.0,,85.0,"Comedy,Crime,Romance",5.7,255,1930,average,short,0,obscure
+tt10370456,movie,Trail to the Reservoir,Trail to the Reservoir,0,2020.0,,70.0,"Action,Mystery,Thriller",5.3,20,2020,average,short,0,obscure
+tt0345993,movie,Tayong dalawa,Tayong dalawa,0,1992.0,,101.0,"Drama,Romance",7.2,18,1990,good,standard,1,obscure
+tt1446142,movie,Rana Bhumi,Rana Bhumi,0,1995.0,,145.0,Action,7.1,20,1990,good,long,1,obscure
+tt8353370,movie,Balun,Balun,0,2017.0,,89.0,"Action,Crime,Thriller",6.9,13,2010,average,short,0,obscure
+tt27819383,movie,Ouija Castle,Ouija Castle,0,2024.0,,98.0,Horror,3.2,171,2020,poor,standard,0,obscure
+tt0493621,movie,A Difícil Viagem,A Difícil Viagem,0,1983.0,,87.0,Drama,6.0,20,1980,average,short,0,obscure
+tt0052141,movie,Rock-a-Bye Baby,Rock-a-Bye Baby,0,1958.0,,103.0,"Comedy,Musical",6.6,2519,1950,average,standard,0,known
+tt0075009,movie,On est au coton,On est au coton,0,1970.0,,173.0,Documentary,7.6,95,1970,good,long,1,obscure
+tt5994868,movie,The Half,Nim,0,2016.0,,70.0,"Crime,Drama,Family",6.7,24,2010,average,short,0,obscure
+tt0383266,movie,El chico temido de la vecindad,El chico temido de la vecindad,0,1989.0,,62.0,Drama,6.2,16,1980,average,short,0,obscure
+tt0173057,movie,Awakening,Probuzení,0,1960.0,,99.0,"Drama,Romance",7.5,71,1960,good,standard,1,obscure
+tt8110440,movie,Bigger Than Africa,Bigger Than Africa,0,2018.0,,90.0,"Documentary,History",7.0,80,2010,average,short,1,obscure
+tt0482883,movie,Agua con sal,Agua con sal,0,2005.0,,94.0,,5.8,52,2000,average,standard,0,obscure
+tt14851374,movie,Jane by Charlotte,Jane par Charlotte,0,2021.0,,88.0,"Biography,Documentary",6.6,778,2020,average,short,0,obscure
+tt5162658,movie,Gold,Oro,0,2017.0,,103.0,"Adventure,Drama,History",5.7,2009,2010,average,standard,0,known
+tt0034118,movie,Roaring Frontiers,Roaring Frontiers,0,1941.0,,60.0,"Drama,Music,Western",5.9,35,1940,average,short,0,obscure
+tt5432624,movie,Bang! The Bert Berns Story,Bang! The Bert Berns Story,0,2016.0,,94.0,"Biography,Documentary,Music",7.9,85,2010,good,standard,1,obscure
+tt26757150,movie,Laika,Laika,0,2023.0,,115.0,"Comedy,Drama,Family",7.0,166,2020,average,standard,1,obscure
+tt0034279,movie,They Meet Again,They Meet Again,0,1941.0,,69.0,"Drama,Musical",5.2,122,1940,average,short,0,obscure
+tt0008039,movie,The Death-Bell,Halálcsengö,0,1917.0,,,Drama,4.1,31,1910,poor,,0,obscure
+tt0359907,movie,The Blessed Marriage,El robat el mukadass,0,1960.0,,124.0,Drama,5.5,18,1960,average,long,0,obscure
+tt0176411,movie,We Were Young,A byahme mladi,0,1961.0,,110.0,Drama,7.5,165,1960,good,standard,1,obscure
+tt5920348,movie,Mortal Affair,Chistoe iskusstvo,0,2016.0,,93.0,"Crime,Mystery,Thriller",5.6,388,2010,average,standard,0,obscure
+tt0044573,movie,The Duel at Silver Creek,The Duel at Silver Creek,0,1952.0,,77.0,"Drama,Western",6.4,2094,1950,average,short,0,known
+tt2113090,movie,This Ain't California,This Ain't California,0,2012.0,,100.0,"Documentary,History,Sport",7.3,1113,2010,good,standard,1,known
+tt2152731,movie,Generation Me,Generation Me,0,2012.0,,120.0,"Comedy,Music,Romance",8.6,89,2010,excellent,standard,1,obscure
+tt0057599,movie,The Traitors,The Traitors,0,1962.0,,71.0,"Drama,Thriller",6.2,179,1960,average,short,0,obscure
+tt0343698,movie,Férias de Laura,Férias de Laura,0,1986.0,,54.0,Comedy,6.6,14,1980,average,short,0,obscure
+tt14288094,movie,Meera Madhava Raghava,Meera Madhava Raghava,0,2007.0,,,Drama,6.3,10,2000,average,,0,obscure
+tt0066551,movie,The Way We Live Now,The Way We Live Now,0,1970.0,,110.0,Drama,6.3,69,1970,average,standard,0,obscure
+tt0130082,movie,Eight Days of Happiness,Der Liebesexpreß,0,1931.0,,85.0,Comedy,5.7,17,1930,average,short,0,obscure
+tt16383058,movie,The Drop Spot,The Drop Spot,0,2022.0,,82.0,Comedy,3.9,27,2020,poor,short,0,obscure
+tt0049867,movie,Toto Double or Nothing,Totò lascia o raddoppia?,0,1956.0,,94.0,Comedy,6.7,535,1950,average,standard,0,obscure
+tt6105456,movie,The Switch,La Switch,0,2022.0,,85.0,Drama,6.1,38,2020,average,short,0,obscure
+tt1029139,movie,Lost Dream,Lost Dream,0,2009.0,,90.0,Drama,5.0,181,2000,poor,short,0,obscure
+tt6373994,movie,Andy the Talking Hedgehog,Andy the Talking Hedgehog,0,2018.0,,76.0,Family,2.1,218,2010,poor,short,0,obscure
+tt1059887,movie,The Legend of Awesomest Maximus,The Legend of Awesomest Maximus,0,2011.0,,90.0,"Action,Comedy",4.2,3488,2010,poor,short,0,known
+tt1553381,movie,Take Them - As They Are,Take Them - As They Are,0,1970.0,,48.0,"Comedy,Drama",4.5,20,1970,poor,short,0,obscure
+tt0214412,movie,Adrift in the Heartland,Adrift in the Heartland,0,2002.0,,70.0,Drama,5.8,10,2000,average,short,0,obscure
+tt4661866,movie,John Mayer: Someday I'll Fly,John Mayer: Someday I'll Fly,0,2014.0,,66.0,"Biography,Documentary,Music",8.6,253,2010,excellent,short,1,obscure
+tt0028788,movie,Dinner at the Ritz,Dinner at the Ritz,0,1937.0,,77.0,"Crime,Drama,Mystery",5.8,345,1930,average,short,0,obscure
+tt1600444,movie,S.R.O.,S.R.O.,0,2010.0,,71.0,Drama,6.3,10,2010,average,short,0,obscure
+tt6608386,movie,Don't Take Me Home,Don't Take Me Home,0,2017.0,,86.0,"Documentary,History,Sport",7.1,435,2010,good,short,1,obscure
+tt9766310,movie,Kanpuriye,Kanpuriye,0,2019.0,,103.0,Drama,6.0,1641,2010,average,standard,0,known
+tt0196999,movie,Tayna villy,Tayna villy,0,1992.0,,,Drama,5.3,12,1990,average,,0,obscure
+tt16369190,movie,Tezhongbing guilai 4 tishen yiyun,Tezhongbing guilai 4 tishen yiyun,0,2021.0,,87.0,Action,6.0,77,2020,average,short,0,obscure
+tt0044106,movie,The Tanks Are Coming,The Tanks Are Coming,0,1951.0,,90.0,"Action,Drama,War",6.2,391,1950,average,short,0,obscure
+tt1302553,movie,Catch Your Mind,Catch Your Mind,0,2008.0,,100.0,"Drama,Family",4.8,90,2000,poor,standard,0,obscure
+tt4006746,movie,Liu lian wang fan,Liu lian wang fan,0,2014.0,,128.0,Drama,6.4,66,2010,average,long,0,obscure
+tt2112194,movie,Lupu,Lupu,0,2013.0,,77.0,Drama,4.7,160,2010,poor,short,0,obscure
+tt3779880,movie,I'm the One You Want,Det er meg du vil ha,0,2014.0,,53.0,Drama,7.3,190,2010,good,short,1,obscure
+tt0079762,movie,¡Pum!,¡Pum!,0,1981.0,,101.0,"Comedy,Drama",5.8,22,1980,average,standard,0,obscure
+tt2981522,movie,UB40: Live at Montreaux,UB40: Live at Montreux,0,2002.0,,96.0,,7.8,18,2000,good,standard,1,obscure
+tt3862782,movie,World Brain,World Brain,0,2015.0,,73.0,"Documentary,Sci-Fi",6.7,28,2010,average,short,0,obscure
+tt35405784,movie,Larry Dean: It Happens (The Fudnut Documentary),Larry Dean: It Happens (The Fudnut Documentary),0,2024.0,,,Comedy,8.6,10,2020,excellent,,1,obscure
+tt0244380,movie,Achha Bura,Achha Bura,0,1983.0,,,Drama,7.3,33,1980,good,,1,obscure
+tt0283263,movie,Biosphere 2,Biosphere 2,0,1991.0,,88.0,,6.5,10,1990,average,short,0,obscure
+tt0032714,movie,A Little Bit of Heaven,A Little Bit of Heaven,0,1940.0,,87.0,Musical,6.2,46,1940,average,short,0,obscure
+tt0213910,movie,Les mutinés de l'Elseneur,Les mutinés de l'Elseneur,0,1936.0,,90.0,Adventure,4.2,27,1930,poor,short,0,obscure
+tt10793310,movie,Coppers,Coppers,0,2019.0,,86.0,"Crime,Documentary",7.7,31,2010,good,short,1,obscure
+tt33093062,movie,Skhvatka,Skhvatka,0,2024.0,,107.0,Action,4.9,30,2020,poor,standard,0,obscure
+tt0230928,movie,Valarthu Mrugangal,Valarthu Mrugangal,0,1981.0,,148.0,Drama,7.0,14,1980,average,long,1,obscure
+tt0158769,movie,Skipper Next to God,Maître après Dieu,0,1951.0,,92.0,Drama,6.4,24,1950,average,standard,0,obscure
+tt0369259,movie,Balaa,Balaa,0,1992.0,,,Horror,5.2,12,1990,average,,0,obscure
+tt0496400,movie,They Know,They Know,0,2006.0,,,Thriller,6.4,54,2000,average,,0,obscure
+tt0057383,movie,A Woman's Life,Onna no rekishi,0,1963.0,,126.0,Drama,7.7,263,1960,good,long,1,obscure
+tt6213794,movie,Sara and Ayda,Sara and Ayda,0,2017.0,,89.0,Drama,4.9,617,2010,poor,short,0,obscure
+tt0353162,movie,Addeham Enna Iddeham,Addeham Enna Iddeham,0,1993.0,,,,6.3,45,1990,average,,0,obscure
+tt0108521,movie,Watch It,Watch It,0,1993.0,,102.0,Comedy,6.2,669,1990,average,standard,0,obscure
+tt0021784,movie,Danton,Danton,0,1931.0,,92.0,Drama,7.2,87,1930,good,standard,1,obscure
+tt2300973,movie,Intabehoo Ayyuha El-Azwag,Intabehoo Ayyuha El-Azwag,0,1990.0,,,"Comedy,Drama,Romance",3.9,21,1990,poor,,0,obscure
+tt0219295,movie,Separada,Separada,0,1994.0,,117.0,Drama,6.7,47,1990,average,standard,0,obscure
+tt6939326,movie,Dukun ilmu hitam,Dukun ilmu hitam,0,1981.0,,87.0,"Drama,Horror,Mystery",5.8,170,1980,average,short,0,obscure
+tt0266391,movie,The Cat's Meow,The Cat's Meow,0,2001.0,,114.0,"Crime,Drama,Romance",6.4,9487,2000,average,standard,0,known
+tt13840536,movie,It Ain't Over,It Ain't Over,0,2022.0,,99.0,"Biography,Documentary,Sport",8.2,1614,2020,excellent,standard,1,known
+tt20781648,movie,Antibumer,Antibumer,0,2004.0,,73.0,,3.4,45,2000,poor,short,0,obscure
+tt0111208,movie,The Eight Hilarious Gods,Siu bat sin,0,1993.0,,87.0,"Comedy,Fantasy",5.3,65,1990,average,short,0,obscure
+tt1239313,movie,What on Earth Have I Done Wrong?!,Qing fei de yi zhi sheng cun zhi dao,0,2007.0,,96.0,Comedy,7.0,241,2000,average,standard,1,obscure
+tt1510981,movie,Believe: The Eddie Izzard Story,Believe: The Eddie Izzard Story,0,2009.0,,102.0,"Comedy,Documentary",7.3,578,2000,good,standard,1,obscure
+tt13988208,movie,Topos,Topos,0,2021.0,,,Drama,7.7,45,2020,good,,1,obscure
+tt3336370,movie,The Clown Prince,City with Two Faces,0,2019.0,,116.0,Drama,6.9,72,2010,average,standard,0,obscure
+tt2900098,movie,Carlos Gustavo,Carlos Gustavo,0,2017.0,,91.0,"Action,Thriller",6.0,399,2010,average,standard,0,obscure
+tt10133754,movie,Pandithurai,Pandithurai,0,1992.0,,,Drama,5.0,13,1990,poor,,0,obscure
+tt0043792,movie,The Mating Season,The Mating Season,0,1951.0,,101.0,"Comedy,Drama,Romance",7.4,2106,1950,good,standard,1,known
+tt11322040,movie,The Improviser,The Improviser,0,2022.0,,93.0,"Comedy,Thriller",7.7,77,2020,good,standard,1,obscure
+tt13279788,movie,The Sisters Kardos,The Sisters Kardos,0,2022.0,,132.0,,9.1,37,2020,excellent,long,1,obscure
+tt6417830,movie,Chhota Bheem and the ShiNobi Secret,Chhota Bheem and the ShiNobi Secret,0,2013.0,,63.0,Animation,8.0,82,2010,good,short,1,obscure
+tt0093954,movie,She Must Be Seeing Things,She Must Be Seeing Things,0,1987.0,,95.0,Drama,5.8,93,1980,average,standard,0,obscure
+tt0253266,movie,New York Construction Company,New York Construction Company,1,1979.0,,,Adult,7.7,12,1970,good,,1,obscure
+tt14780150,movie,Devara Kanassu,Devara Kanassu,0,2023.0,,122.0,Drama,9.4,299,2020,excellent,long,1,obscure
+tt4692706,movie,Returning to Jedi,Returning to Jedi,0,2007.0,,148.0,Documentary,8.3,38,2000,excellent,long,1,obscure
+tt2429808,movie,Katerina Gogou: Reinstating the Dark Side,Katerina Gogou: Gia tin apokatastasi tou mavrou,0,2012.0,,67.0,"Biography,Documentary,Drama",6.8,19,2010,average,short,0,obscure
+tt0084323,movie,Menudo: La pelicula,Menudo: La pelicula,0,1982.0,,83.0,Music,5.2,20,1980,average,short,0,obscure
+tt0079356,movie,Jack+Jill,Jack+Jill,1,1979.0,,74.0,"Adult,Comedy,Romance",6.1,119,1970,average,short,0,obscure
+tt0041095,movie,The Adventures of P.C. 49: Investigating the Case of the Guardian Angel,The Adventures of P.C. 49: Investigating the Case of the Guardian Angel,0,1949.0,,67.0,"Crime,Drama,Mystery",5.6,171,1940,average,short,0,obscure
+tt1670251,movie,Jimmy Murakami: Non Alien,Jimmy Murakami: Non Alien,0,2010.0,,90.0,"Animation,Biography,Documentary",6.9,45,2010,average,short,0,obscure
+tt1326783,movie,Hampshire,Hampshire,0,2009.0,,82.0,Horror,5.1,70,2000,average,short,0,obscure
+tt0105665,movie,Twin Peaks: Fire Walk with Me,Twin Peaks: Fire Walk with Me,0,1992.0,,134.0,"Drama,Horror,Mystery",7.3,117998,1990,good,long,1,blockbuster
+tt12783826,movie,The Unknown Country,The Unknown Country,0,2022.0,,85.0,"Adventure,Drama,Mystery",6.3,1026,2020,average,short,0,known
+tt2292354,movie,The Test,The Test,0,2011.0,,84.0,"Mystery,Thriller",5.2,11,2010,average,short,0,obscure
+tt0833540,movie,All for Free,Sve dzaba,0,2006.0,,94.0,"Comedy,Drama",6.6,555,2000,average,standard,0,obscure
+tt2304663,movie,Harat El-Habayeb,Harat El-Habayeb,0,1989.0,,,"Comedy,Romance",4.0,14,1980,poor,,0,obscure
+tt15062756,movie,Bread and Salt,Chleb i sól,0,2022.0,,100.0,Drama,6.8,633,2020,average,standard,0,obscure
+tt0090372,movie,Zina,Zina,0,1985.0,,92.0,"Biography,Drama",6.6,140,1980,average,standard,0,obscure
+tt0249124,movie,The Sea Rose,La rose de la mer,0,1946.0,,85.0,Drama,6.6,39,1940,average,short,0,obscure
+tt3559274,movie,Der Wald,Der Wald,0,2018.0,,138.0,Drama,7.1,17,2010,good,long,1,obscure
+tt0023426,movie,Scandal for Sale,Scandal for Sale,0,1932.0,,75.0,Drama,6.4,72,1930,average,short,0,obscure
+tt0076165,movie,The Frenchman's Garden,El huerto del Francés,0,1978.0,,97.0,"Biography,Crime,Drama",6.4,320,1970,average,standard,0,obscure
+tt6056888,movie,Veleni,Veleni,0,2017.0,,90.0,Drama,6.0,24,2010,average,short,0,obscure
+tt3263310,movie,Passenger from San Francisco,Passenger from San Francisco,0,2014.0,,131.0,"Crime,Drama",5.5,18,2010,average,long,0,obscure
+tt0087195,movie,Eingeschlossen frei zu sein,Eingeschlossen frei zu sein,0,1984.0,,52.0,,7.0,10,1980,average,short,1,obscure
+tt1686892,movie,Sanju Aau Sanjana,Sanju Aau Sanjana,0,2010.0,,,Drama,7.9,36,2010,good,,1,obscure
+tt1114740,movie,Paul Blart: Mall Cop,Paul Blart: Mall Cop,0,2009.0,,91.0,"Action,Comedy,Crime",5.3,124299,2000,average,standard,0,blockbuster
+tt0114994,movie,"XY, drôle de conception","XY, drôle de conception",0,1996.0,,100.0,"Comedy,Drama,Romance",3.8,149,1990,poor,standard,0,obscure
+tt1462712,movie,Three Buddies,Trzech kumpli,0,2008.0,,107.0,Documentary,7.9,45,2000,good,standard,1,obscure
+tt7397146,movie,Thirty Years of Adonis,San shi er li,1,2017.0,,97.0,"Adult,Drama",5.5,327,2010,average,standard,0,obscure
+tt3833822,movie,Daft Punk Unchained,Daft Punk Unchained,0,2015.0,,85.0,"Documentary,Music",7.3,3618,2010,good,short,1,known
+tt0427235,movie,Fatmagül'ün Suçu Ne,Fatmagül'ün Suçu Ne,0,1986.0,,82.0,Drama,5.2,355,1980,average,short,0,obscure
+tt13282160,movie,Kapitan Bomba - Zemsta Faraona,Kapitan Bomba - Zemsta Faraona,0,2012.0,,80.0,Animation,7.1,107,2010,good,short,1,obscure
+tt0139558,movie,Ratavartijan kaunis Inkeri,Ratavartijan kaunis Inkeri,0,1950.0,,85.0,"Drama,Romance",6.4,87,1950,average,short,0,obscure
+tt0033916,movie,The Monster and the Girl,The Monster and the Girl,0,1941.0,,65.0,"Crime,Drama,Horror",6.0,873,1940,average,short,0,obscure
+tt5114512,movie,Accordions Rising,Accordions Rising,0,2015.0,,74.0,"Documentary,Music",8.1,53,2010,excellent,short,1,obscure
+tt5815262,movie,Naani,Naani,0,2016.0,,,"Horror,Sci-Fi,Thriller",5.4,52,2010,average,,0,obscure
+tt0282646,movie,Juan Pistolas,Juan Pistolas,0,1966.0,,90.0,"Adventure,Comedy,Drama",5.6,21,1960,average,short,0,obscure
+tt2421314,movie,Noi non siamo come James Bond,Noi non siamo come James Bond,0,2012.0,,73.0,Documentary,6.4,39,2010,average,short,0,obscure
+tt0088355,movie,Vigil,Vigil,0,1984.0,,90.0,"Drama,Mystery",6.8,968,1980,average,short,0,obscure
+tt0268358,movie,Hildegarde,Hildegarde,0,2001.0,,88.0,"Adventure,Family",4.7,205,2000,poor,short,0,obscure
+tt3309672,movie,And Still I Sing,And Still I Sing,0,2022.0,,90.0,Documentary,7.2,57,2020,good,short,1,obscure
+tt4021132,movie,Deadly Waters,Deadly Waters,0,2015.0,,,Horror,5.3,138,2010,average,,0,obscure
+tt2261980,movie,Sesame Street: Elmo's Magic Numbers,Sesame Street: Elmo's Magic Numbers,0,2012.0,,108.0,Family,4.0,20,2010,poor,standard,0,obscure
+tt9426210,movie,Weathering with You,Tenki no ko,0,2019.0,,112.0,"Animation,Drama,Fantasy",7.5,68674,2010,good,standard,1,popular
+tt0073631,movie,Rollerball,Rollerball,0,1975.0,,125.0,"Action,Sci-Fi,Sport",6.5,32035,1970,average,long,0,popular
+tt0125324,movie,Koskenlaskijan morsian,Koskenlaskijan morsian,0,1923.0,,87.0,Drama,6.0,62,1920,average,short,0,obscure
+tt1671571,movie,Gurushetram: 24 Hours of Anger,Gurushetram: 24 Hours of Anger,0,2010.0,,125.0,"Crime,Drama,Thriller",6.7,27,2010,average,long,0,obscure
+tt4527172,movie,Durch seine Venen fließt Blei,Durch seine Venen fließt Blei,0,2017.0,,55.0,"Drama,Western",7.8,31,2010,good,short,1,obscure
+tt21097192,movie,Die Alone,Die Alone,0,2024.0,,90.0,"Drama,Horror,Mystery",5.8,5569,2020,average,short,0,known
+tt0070097,movie,Gehri Chaal,Gehri Chaal,0,1973.0,,147.0,"Action,Crime,Thriller",5.4,176,1970,average,long,0,obscure
+tt0099791,movie,The Dragon from Russia,Hong chang fei long,0,1990.0,,94.0,Action,5.5,546,1990,average,standard,0,obscure
+tt0148769,movie,Sexy Secrets of the Sex Therapists,Sexy Secrets of the Sex Therapists,0,1986.0,,90.0,Drama,7.1,15,1980,good,short,1,obscure
+tt0470995,movie,Danny Roane: First Time Director,Danny Roane: First Time Director,0,2006.0,,83.0,Comedy,4.4,741,2000,poor,short,0,obscure
+tt0047684,movie,Yankee Pasha,Yankee Pasha,0,1954.0,,84.0,"Adventure,Romance",6.2,285,1950,average,short,0,obscure
+tt0310870,movie,Chen Mo and Meiting,Chen Mo he Meiting,0,2002.0,,78.0,Drama,6.9,77,2000,average,short,0,obscure
+tt0072643,movie,Anatomy of a Relationship,Anatomie d'un rapport,0,1976.0,,82.0,Drama,6.5,202,1970,average,short,0,obscure
+tt22981350,movie,Cream in My Coffee,Tatli Süt Köpügü,0,2022.0,,109.0,Drama,4.8,26,2020,poor,standard,0,obscure
+tt32611736,movie,Extremely Personal Documentary,Asiri Kisisel Belgesel,0,2024.0,,,Documentary,9.3,18,2020,excellent,,1,obscure
+tt0060597,movie,Carriage to Vienna,Kocár do Vídne,0,1966.0,,78.0,"Drama,War",7.7,1297,1960,good,short,1,known
+tt0096220,movie,Talking to Strangers,Talking to Strangers,0,1988.0,,90.0,Drama,7.2,102,1980,good,short,1,obscure
+tt0460581,movie,A World Upside Down,Tersine Dünya,0,1994.0,,97.0,Comedy,6.0,577,1990,average,standard,0,obscure
+tt0180413,movie,Round Trip,Tamo i natrag,0,1978.0,,93.0,Drama,6.2,53,1970,average,standard,0,obscure
+tt11095458,movie,Riptide,Riptide,0,2020.0,,90.0,Drama,7.5,15,2020,good,short,1,obscure
+tt0204908,movie,Bo Ba Bu,Bo Ba Bu,0,1998.0,,85.0,"Comedy,Drama",6.4,121,1990,average,short,0,obscure
+tt2125501,movie,"Electric Boogaloo: The Wild, Untold Story of Cannon Films","Electric Boogaloo: The Wild, Untold Story of Cannon Films",0,2014.0,,106.0,"Biography,Documentary,History",7.4,6325,2010,good,standard,1,known
+tt0251143,movie,Insaaf: The Final Justice,Insaaf: The Final Justice,0,1997.0,,155.0,"Action,Comedy,Drama",3.8,964,1990,poor,long,0,obscure
+tt0126296,movie,The Far Out West,The Far Out West,0,1967.0,,100.0,"Comedy,Western",8.4,57,1960,excellent,standard,1,obscure
+tt0094728,movie,Belinda,Belinda,0,1988.0,,97.0,Drama,5.2,54,1980,average,standard,0,obscure
+tt0098704,movie,Zakon,Zakon,0,1990.0,,138.0,"Drama,History",7.1,32,1990,good,long,1,obscure
+tt12478558,movie,Fabrizio De Andrè & PFM - Il concerto ritrovato,Fabrizio De Andrè & PFM - Il concerto ritrovato,0,2020.0,,120.0,"Documentary,Music",6.8,63,2020,average,standard,0,obscure
+tt3311312,movie,Eles Comem Sua Carne,Eles Comem Sua Carne,0,1996.0,,73.0,Horror,5.9,28,1990,average,short,0,obscure
+tt3517782,movie,Twenty Years Later,Twenty Years Later,0,2014.0,,104.0,Comedy,6.7,34,2010,average,standard,0,obscure
+tt11157146,movie,Shree Ram Samartha,Shree Ram Samartha,0,2019.0,,,History,8.7,21,2010,excellent,,1,obscure
+tt5303420,movie,Necromance: A Love Story,Necromance: A Love Story,0,2015.0,,61.0,Horror,6.3,14,2010,average,short,0,obscure
+tt3985648,movie,Out of the Blue,Sta kala kathoumena,0,2014.0,,92.0,Comedy,4.5,348,2010,poor,standard,0,obscure
+tt4250058,movie,Gehry's Vertigo,Gehry's Vertigo,0,2013.0,,48.0,Documentary,8.5,15,2010,excellent,short,1,obscure
+tt0237382,movie,Komendantskiy chas,Komendantskiy chas,0,1981.0,,81.0,"Drama,War",6.6,11,1980,average,short,0,obscure
+tt1118692,movie,Squalid,Squalid,0,2008.0,,45.0,Thriller,4.4,24,2000,poor,short,0,obscure
+tt0126437,movie,Mine tossede drenge,Mine tossede drenge,0,1961.0,,100.0,"Comedy,Drama,Family",4.9,45,1960,poor,standard,0,obscure
+tt0318796,movie,Utthama Raasa,Utthama Raasa,0,1993.0,,,Drama,6.2,17,1990,average,,0,obscure
+tt0103325,movie,The Beggar's Opera,Zebrácká opera,0,1991.0,,94.0,"Comedy,Drama",7.0,193,1990,average,standard,1,obscure
+tt5729736,movie,Secondo Me,Secondo Me,0,2016.0,,80.0,"Biography,Documentary,Drama",7.1,37,2010,good,short,1,obscure
+tt0110639,movie,Nella mischia,Nella mischia,0,1995.0,,93.0,"Comedy,Drama",7.1,50,1990,good,standard,1,obscure
+tt0107852,movie,The Pope of Utah,The Pope of Utah,0,1993.0,,83.0,Drama,6.5,30,1990,average,short,0,obscure
+tt0195375,movie,The Usual Children,The Usual Children,0,1997.0,,92.0,"Adventure,Family,Fantasy",4.1,41,1990,poor,standard,0,obscure
+tt0278891,movie,"Oh, Belinda",Aaahh Belinda,0,1986.0,,100.0,"Comedy,Fantasy",7.7,4070,1980,good,standard,1,known
+tt0329777,movie,Shadow,Yau leng ching shu,0,2001.0,,89.0,"Horror,Romance",6.5,30,2000,average,short,0,obscure
+tt2527138,movie,Finster,Finster,0,2022.0,,73.0,"Biography,Documentary,History",8.8,21,2020,excellent,short,1,obscure
+tt5038596,movie,Odesskie kanikuly,Odesskie kanikuly,0,1965.0,,79.0,"Family,War",6.2,16,1960,average,short,0,obscure
+tt18764714,movie,Cuando Duerme Conmigo,Cuando Duerme Conmigo,0,2023.0,,85.0,Drama,6.3,54,2020,average,short,0,obscure
+tt0310243,movie,Tracks,Tracks,0,2005.0,,92.0,"Crime,Drama",4.8,337,2000,poor,standard,0,obscure
+tt0078778,movie,Angels' Brigade,Angels' Brigade,0,1979.0,,97.0,"Action,Comedy",2.3,2203,1970,poor,standard,0,known
+tt5607782,movie,The Covenant,The Covenant,0,2017.0,,90.0,"Horror,Mystery",3.5,1835,2010,poor,short,0,known
+tt1464755,movie,Ironsides,Ironsides,0,2009.0,,88.0,Drama,7.5,48,2000,good,short,1,obscure
+tt15057238,movie,Ganga Yamuna,Ganga Yamuna,0,1997.0,,144.0,Drama,6.5,13,1990,average,long,0,obscure
+tt24178920,movie,Sergiy protiv nechisti. Shabash,Sergiy protiv nechisti. Shabash,0,2023.0,,92.0,"Action,Comedy,Horror",6.7,93,2020,average,standard,0,obscure
+tt3726052,movie,Fangs Vs. Spurs,Fangs Vs. Spurs,0,2016.0,,93.0,"Drama,Horror,Western",7.6,32,2010,good,standard,1,obscure
+tt0042657,movie,König für eine Nacht,König für eine Nacht,0,1950.0,,100.0,"Comedy,History",5.7,20,1950,average,standard,0,obscure
+tt9083724,movie,Love and Four Walls,Love and Four Walls,0,2018.0,,96.0,Drama,2.7,39,2010,poor,standard,0,obscure
+tt0050381,movie,Hercules,Le fatiche di Ercole,0,1958.0,,107.0,"Adventure,Fantasy,History",5.4,2646,1950,average,standard,0,known
+tt0095581,movie,Mangala Thegga,Mangala Thegga,0,1988.0,,,,7.2,17,1980,good,,1,obscure
+tt12245228,movie,Endlich Tacheles,Endlich Tacheles,0,2020.0,,104.0,Documentary,7.4,14,2020,good,standard,1,obscure
+tt0111235,movie,"Solo, de wet van de favela","Solo, de wet van de favela",0,1994.0,,54.0,Documentary,6.8,20,1990,average,short,0,obscure
+tt0321274,movie,Arashi o yobu otoko,Arashi o yobu otoko,0,1966.0,,95.0,"Drama,Music",5.4,20,1960,average,standard,0,obscure
+tt0293591,movie,She Me and Her,She Me and Her,0,2002.0,,99.0,Comedy,5.3,110,2000,average,standard,0,obscure
+tt1874387,movie,10 ragazze,10 ragazze,0,2011.0,,95.0,Comedy,4.5,45,2010,poor,standard,0,obscure
+tt0243561,movie,Sitapur Ki Geeta,Sitapur Ki Geeta,0,1987.0,,137.0,"Action,Crime",5.6,50,1980,average,long,0,obscure
+tt0049415,movie,Kitty and the Great Big World,Kitty und die große Welt,0,1956.0,,94.0,Comedy,6.1,135,1950,average,standard,0,obscure
+tt0251997,movie,Side Roads,Side Roads,0,1988.0,,144.0,Thriller,4.0,114,1980,poor,long,0,obscure
+tt2652374,movie,Ashrita,Ashrita,0,1990.0,,,Action,7.5,25,1990,good,,1,obscure
+tt0072859,movie,Decak i violina,Decak i violina,0,1975.0,,84.0,"Drama,Music,War",6.1,35,1970,average,short,0,obscure
+tt2328745,movie,Space Warriors,Space Warriors,0,2013.0,,93.0,"Adventure,Family,Sci-Fi",4.5,1421,2010,poor,standard,0,known
+tt0085432,movie,The Destiny of Juliette,Le destin de Juliette,0,1983.0,,109.0,Drama,6.2,41,1980,average,standard,0,obscure
+tt0113801,movie,Menmaniacs - The Legacy of Leather,Menmaniacs - The Legacy of Leather,0,1995.0,,86.0,Documentary,7.2,29,1990,good,short,1,obscure
+tt0115668,movie,Bhishma,Bhishma,0,1996.0,,125.0,"Action,Thriller",4.5,55,1990,poor,long,0,obscure
+tt1296386,movie,Insaan Aur Gadha,Insaan Aur Gadha,0,1973.0,,,,7.1,19,1970,good,,1,obscure
+tt26067432,movie,Wil,Wil,0,2023.0,,110.0,"Drama,History,War",6.8,7465,2020,average,standard,0,known
+tt1334049,movie,Beauty and the Seven Beasts,Qi qin qi zong qi se lang,0,2007.0,,99.0,Comedy,3.6,52,2000,poor,standard,0,obscure
+tt6654210,movie,Infinite,Infinite,0,2021.0,,106.0,"Action,Sci-Fi,Thriller",5.5,69997,2020,average,standard,0,popular
+tt15193236,movie,Why am I Alive,Chomu ya zhyvyy,0,2021.0,,120.0,Drama,7.4,113,2020,good,standard,1,obscure
+tt0221982,movie,Gaja Gamini,Gaja Gamini,0,2000.0,,122.0,"Drama,Fantasy",4.5,838,2000,poor,long,0,obscure
+tt10932080,movie,Raghu CNG,Raghu CNG,0,2019.0,,,"Crime,Thriller",5.6,52,2010,average,,0,obscure
+tt1087852,movie,The Great Indian Butterfly,The Great Indian Butterfly,0,2007.0,,90.0,Drama,6.1,187,2000,average,short,0,obscure
+tt0082996,movie,Rigor mortis,Rigor mortis,0,1981.0,,63.0,Comedy,6.8,75,1980,average,short,0,obscure
+tt16163824,movie,The Real Cool Runnings: The Corie Mapp Story,The Real Cool Runnings: The Corie Mapp Story,0,2022.0,,,Documentary,1.3,32,2020,poor,,0,obscure
+tt7154952,movie,Everybody Flies,Everybody Flies,0,2019.0,,97.0,Documentary,8.6,76,2010,excellent,standard,1,obscure
+tt4328666,movie,The Primary Instinct,The Primary Instinct,0,2015.0,,73.0,"Documentary,Drama",7.4,265,2010,good,short,1,obscure
+tt29529716,movie,Pagalpan Next Level,Pagalpan Next Level,0,2023.0,,128.0,Biography,8.1,287,2020,excellent,long,1,obscure
+tt0041389,movie,Free for All,Free for All,0,1949.0,,83.0,"Comedy,Romance",6.2,96,1940,average,short,0,obscure
+tt10122846,movie,Cult,Cult,0,2019.0,,82.0,"Comedy,Drama",6.5,77,2010,average,short,0,obscure
+tt0090305,movie,Weird Science,Weird Science,0,1985.0,,94.0,"Comedy,Romance,Sci-Fi",6.6,105095,1980,average,standard,0,blockbuster
+tt0067313,movie,"Korona Rossiyskoy Imperii, ili Snova Neulovimye","Korona Rossiyskoy Imperii, ili Snova Neulovimye",0,1971.0,,134.0,"Action,Adventure,History",6.6,1087,1970,average,long,0,known
+tt21797492,movie,Nekaj sladkega,Nekaj sladkega,0,2023.0,,90.0,Comedy,5.8,183,2020,average,short,0,obscure
+tt12934256,movie,A Reflection of Evil,A Reflection of Evil,0,2021.0,,,Thriller,7.9,31,2020,good,,1,obscure
+tt1249171,movie,Global Metal,Global Metal,0,2008.0,,93.0,"Documentary,Music",7.9,4985,2000,good,standard,1,known
+tt0110404,movie,Luces de la noche,Luces de la noche,0,1998.0,,90.0,"Drama,Romance",4.9,21,1990,poor,short,0,obscure
+tt0496611,movie,Flamenco: A Personal Journey,Flamenco: A Personal Journey,0,2005.0,,90.0,Documentary,8.5,20,2000,excellent,short,1,obscure
+tt1235813,movie,Unsalted: A Great Lakes Experience,Unsalted: A Great Lakes Experience,0,2005.0,,57.0,Sport,7.4,24,2000,good,short,1,obscure
+tt0059315,movie,The Intelligence Men,The Intelligence Men,0,1965.0,,98.0,"Comedy,Mystery",6.0,568,1960,average,standard,0,obscure
+tt0180524,movie,Getting Better,Bice bolje,0,1994.0,,84.0,"Comedy,Drama",5.5,246,1990,average,short,0,obscure
+tt0204278,movie,Dil Lagake Dekho,Dil Lagake Dekho,0,1989.0,,,"Drama,Romance",4.2,21,1980,poor,,0,obscure
+tt0075934,movie,Deseo carnal,Deseo carnal,0,1978.0,,87.0,Drama,4.2,69,1970,poor,short,0,obscure
+tt0097441,movie,Glory,Glory,0,1989.0,,122.0,"Biography,Drama,History",7.8,152917,1980,good,long,1,blockbuster
+tt0228682,movie,Order Castles of the Third Reich,Order Castles of the Third Reich,0,2000.0,,58.0,Documentary,7.0,13,2000,average,short,1,obscure
+tt27851639,movie,Second tour,Second tour,0,2023.0,,95.0,"Comedy,Drama",6.2,1387,2020,average,standard,0,known
+tt1920860,movie,Bloody Mary,Bloody Mary 3D,0,2011.0,,82.0,Horror,2.2,745,2010,poor,short,0,obscure
+tt0187434,movie,Quando as Mulheres Paqueram,Quando as Mulheres Paqueram,0,1971.0,,85.0,Comedy,5.6,36,1970,average,short,0,obscure
+tt0052778,movie,An Angel on Wheels,Ein Engel auf Erden,0,1959.0,,87.0,"Comedy,Fantasy,Romance",5.6,394,1950,average,short,0,obscure
+tt0243511,movie,Four for All,Dört Hergele,0,1974.0,,76.0,"Action,Crime,Drama",5.5,87,1970,average,short,0,obscure
+tt1964630,movie,The Evil Inside,Dead Inside,0,2011.0,,83.0,Horror,3.6,451,2010,poor,short,0,obscure
+tt2736858,movie,The Harrowing,The Harrowing,0,2017.0,,110.0,Thriller,4.1,309,2010,poor,standard,0,obscure
+tt1821533,movie,Maiden Heaven,Maiden Heaven,0,2010.0,,178.0,"Comedy,Documentary",8.3,14,2010,excellent,long,1,obscure
+tt2522274,movie,Everglades of the North,Everglades of the North,0,2012.0,,57.0,Documentary,7.9,22,2010,good,short,1,obscure
+tt0163776,movie,Egy tél az Isten háta mögött,Egy tél az Isten háta mögött,0,1999.0,,107.0,Drama,7.1,178,1990,good,standard,1,obscure
+tt0073493,movie,Orzel i reszka,Orzel i reszka,0,1975.0,,87.0,Action,4.4,29,1970,poor,short,0,obscure
+tt2064962,movie,The Invisible Policeman,Shurti ala al hamesh,0,2011.0,,59.0,Documentary,8.4,25,2010,excellent,short,1,obscure
+tt0276935,movie,"Electric Dragon 80,000V",Erekutorikku Doragon 80000 V,0,2001.0,,55.0,"Action,Fantasy,Sci-Fi",6.8,2941,2000,average,short,0,known
+tt8433082,movie,Fallen,Fallen,0,2018.0,,113.0,"Mystery,Sci-Fi,Thriller",4.0,61,2010,poor,standard,0,obscure
+tt0272033,movie,Chhatrapati Sambhaji,Chhatrapati Sambhaji,0,1924.0,,,"Biography,History",9.9,18,1920,excellent,,1,obscure
+tt27722758,movie,Tavan,Tavan,0,2013.0,,,Drama,1.0,22,2010,poor,,0,obscure
