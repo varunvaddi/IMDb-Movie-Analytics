@@ -1,0 +1,13 @@
+{
+  "version": "v3",
+  "rmse": 0.6929,
+  "r2": 0.4615,
+  "mae": 0.4637,
+  "dataset_size": 4462,
+  "train_rows": 3569,
+  "test_rows": 893,
+  "vote_filter": "50000+",
+  "n_features": 37,
+  "train_time": 0.3,
+  "insight": "Filtering to 50k+ vote movies removes noise, improves reliability"
+}

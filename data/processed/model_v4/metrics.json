@@ -1,0 +1,12 @@
+{
+  "version": "v4",
+  "best_model": "v4-full",
+  "rmse": 0.786,
+  "r2": 0.6642,
+  "mae": 0.5499,
+  "full_dataset_r2": 0.6642,
+  "filtered_dataset_r2": 0.564,
+  "n_features": 43,
+  "director_features_added": 6,
+  "improvement_over_v1": "R\u00b2 0.3061 \u2192 0.6642"
+}

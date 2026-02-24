@@ -1,0 +1,11 @@
+{
+  "version": "v2",
+  "rmse": 1.1302,
+  "r2": 0.3057,
+  "mae": 0.8566,
+  "train_rows": 247519,
+  "test_rows": 61880,
+  "n_features": 37,
+  "train_time_seconds": 3.7,
+  "improvements": "added interaction features, votes_log_squared, popularity_score, tuned hyperparameters"
+}

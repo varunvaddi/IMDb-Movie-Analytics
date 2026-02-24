@@ -1,0 +1,16 @@
+{
+  "rmse": 1.1299,
+  "r2": 0.3061,
+  "mae": 0.8559,
+  "train_rows": 247519,
+  "test_rows": 61880,
+  "n_features": 28,
+  "train_time_seconds": 1.4,
+  "top_features": {
+    "genre_documentary": 0.4392879903316498,
+    "genre_horror": 0.1673792153596878,
+    "is_modern": 0.05756145715713501,
+    "is_classic": 0.04119676351547241,
+    "genre_drama": 0.040838878601789474
+  }
+}
