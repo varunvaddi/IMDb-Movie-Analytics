@@ -1,0 +1,34 @@
+{
+  "dashboard_url": "https://varunvaddi.grafana.net",
+  "dashboards": [
+    {
+      "name": "IMDb Movie Analytics",
+      "panels": [
+        "Total Movies (stat)",
+        "Average Rating (stat)",
+        "Total Votes (stat)",
+        "High Rated Movies (stat)",
+        "Movies Per Decade (bar)",
+        "Avg Rating by Decade (bar)",
+        "Top 15 Genres by Rating (horizontal bar)",
+        "Rating Tier Breakdown (bar)",
+        "Vote Tier Distribution (pie)"
+      ]
+    },
+    {
+      "name": "IMDb ML Model Performance",
+      "panels": [
+        "Model Iteration History (table)",
+        "Live Endpoint Predictions (table)",
+        "Pipeline Stats (stat)"
+      ]
+    },
+    {
+      "name": "IMDb Pipeline Monitoring",
+      "panels": [
+        "Pipeline Component Health (table)",
+        "Data Quality Scores (stat)"
+      ]
+    }
+  ]
+}
