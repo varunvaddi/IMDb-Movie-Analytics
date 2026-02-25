@@ -1,0 +1,15 @@
+{
+  "sns_topic_arn": "arn:aws:sns:us-east-1:179388325583:imdb-pipeline-alerts",
+  "alert_email": "your-email@example.com",
+  "glue_jobs_monitored": [
+    "imdb-etl-movies",
+    "imdb-feature-engineering",
+    "imdb-director-features"
+  ],
+  "cloudwatch_alarms": [
+    "imdb-glue-failure-imdb-etl-movies",
+    "imdb-glue-failure-imdb-feature-engineering",
+    "imdb-glue-failure-imdb-director-features"
+  ],
+  "grafana_url": "https://varunvaddi.grafana.net"
+}
