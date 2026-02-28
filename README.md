@@ -2,7 +2,9 @@
 
 End-to-end data engineering and ML pipeline on AWS processing 12.3M IMDb records to predict movie ratings using XGBoost.
 
-## 🔗 Live Links
+> **Status:** Infrastructure torn down (cost management). All code, scripts, and documentation preserved for reproduction. Grafana dashboards remain live.
+
+## 🔗 Links
 - **Grafana Dashboards:** https://varunvaddi.grafana.net
 - **GitHub:** https://github.com/varunvaddi/IMDb-Movie-Analytics
 
@@ -22,7 +24,7 @@ Feature Engineering (43 ML features)
         ↓
 XGBoost Model (R²=0.664, RMSE=0.786)
         ↓
-SageMaker Endpoint (live predictions)
+SageMaker Endpoint (<100ms predictions)
         ↓
 Grafana + CloudWatch (monitoring)
         ↓
@@ -43,6 +45,7 @@ EventBridge + Lambda (daily automation)
 | Endpoint latency | <100ms |
 | Pipeline runtime | ~16 min |
 | Data quality score | 99%+ |
+| Total AWS cost | ~$1.00 |
 
 ### Model Iteration History
 
@@ -115,14 +118,7 @@ IMDb-Movie-Analytics/
 │   └── monitoring_config.json
 ├── docs/
 │   └── screenshots/
-│       ├── phase1/
-│       ├── phase2/
-│       ├── phase3/
-│       ├── phase4/
-│       ├── phase5/
-│       ├── phase6/
-│       ├── phase7/
-│       └── phase8/
+│       ├── phase1/ through phase8/
 └── data/
     └── processed/
         ├── model_v4/
@@ -171,8 +167,7 @@ IMDb-Movie-Analytics/
 
 ### Phase 7 — Dashboards
 - Grafana Cloud connected to Athena
-- 5 dashboards: Movie Analytics, Genre Analysis, ML Performance,
-  Pipeline Monitoring, ML Model Monitoring
+- 5 dashboards: Movie Analytics, Genre Analysis, ML Performance, Pipeline Monitoring, ML Model Monitoring
 - Public URLs for portfolio sharing
 
 ### Phase 8 — Monitoring
@@ -188,6 +183,12 @@ IMDb-Movie-Analytics/
 - SNS success/failure notifications
 - Full pipeline: ~16 minutes, zero manual intervention
 
+### Phase 10 — Documentation & Teardown
+- Professional README and interactive architecture diagram
+- Portfolio screenshots for all phases
+- AWS infrastructure torn down cleanly (cost management)
+- Total project cost: ~$1.00 across all phases
+
 ---
 
 ## 💰 Cost Summary
@@ -202,33 +203,60 @@ IMDb-Movie-Analytics/
 | Lambda | Free tier | $0.00 |
 | EventBridge | Free tier | $0.00 |
 | SNS | Free tier | $0.00 |
-| **Total** | **Phases 1-10** | **~$1.00** |
+| **Total** | **All phases** | **~$1.00** |
 
 ---
 
 ## 🔑 Key Engineering Decisions
 
-**Athena over Redshift** — Student account blocked Redshift. Athena provides identical SQL functionality serverlessly, cheaper for intermittent queries.
+**Athena over Redshift** — Student account blocked Redshift. Athena provides identical SQL functionality serverlessly and is architecturally correct for intermittent analytics on S3 Parquet data.
 
-**Glue for director features** — title.principals.tsv.gz is 500MB. Processing locally caused 15+ minute downloads every run. Moved to Glue to process in cloud, download only the 17MB output.
+**Glue for director features** — title.principals.tsv.gz is 500MB. Processing locally caused 15+ minute downloads every run. Moved to Glue — processes 500MB in cloud, downloads only 17MB output.
 
-**Director reputation as key feature** — Genre/year/runtime alone gave R²=0.31. Adding director historical avg rating, hit rate, and movie count pushed R² to 0.664. Domain knowledge > feature engineering tricks.
+**Director reputation as key feature** — Genre/year/runtime alone gave R²=0.31. Adding director historical avg rating, hit rate, and movie count pushed R² to 0.664. Domain knowledge beats feature engineering tricks.
 
-**Built-in XGBoost container** — Custom sklearn container failed due to missing packages. AWS native XGBoost container requires only hyperparameters, no custom code.
+**Built-in XGBoost container** — Custom sklearn container failed due to missing packages. AWS native XGBoost container requires only hyperparameters, no custom code packaging.
 
 **Bronze/Silver/Gold pattern** — Raw TSV → clean Parquet → engineered features. Each layer is independently queryable and reprocessable without touching upstream data.
 
+**Infrastructure teardown** — SageMaker endpoint, Glue jobs, Lambda, EventBridge, CloudWatch alarms, and S3 buckets deleted after project completion. Total spend: ~$1.00. Code preserved in GitHub for full reproduction.
+
 ---
 
-## 📸 Screenshots
+## 🧹 Teardown (Cost Management)
 
-<!-- Add screenshots here after taking them -->
-<!-- docs/screenshots/phase1/s3-buckets.png -->
-<!-- docs/screenshots/phase2/glue-etl-succeeded.png -->
-<!-- docs/screenshots/phase5/sagemaker-training-metrics.png -->
-<!-- docs/screenshots/phase6/endpoint-predictions.png -->
-<!-- docs/screenshots/phase7/grafana-dashboard.png -->
-<!-- docs/screenshots/phase8/cloudwatch-dashboard.png -->
+All AWS infrastructure was deleted after project completion. To reproduce the pipeline from scratch:
+
+```bash
+# 1. Upload raw data to S3
+aws s3 mb s3://imdb-pipeline-raw-$ACCOUNT_ID
+aws s3 cp data/ s3://imdb-pipeline-raw-$ACCOUNT_ID/imdb/ --recursive
+
+# 2. Create and run Glue ETL job
+aws glue create-job --name imdb-etl-movies \
+    --role IMDbGlueRole \
+    --command '{"Name":"glueetl","ScriptLocation":"s3://imdb-pipeline-raw-$ACCOUNT_ID/scripts/etl_movie_data.py"}'
+
+# 3. Deploy SageMaker endpoint
+python scripts/deploy_endpoint.py
+
+# 4. Run predictions
+python scripts/predict.py
+
+# 5. Cleanup when done
+python scripts/delete_endpoint.py
+```
+
+Resources deleted:
+- ✅ S3 buckets (raw, processed, features, sagemaker, athena-results)
+- ✅ Glue jobs (etl-movies, feature-engineering, director-features)
+- ✅ Glue database (imdb_analytics)
+- ✅ Lambda function (pipeline-orchestrator)
+- ✅ EventBridge rule (daily-pipeline)
+- ✅ CloudWatch alarms (3× Glue failure alarms)
+- ✅ CloudWatch dashboard (IMDb-Pipeline-Monitoring)
+- ✅ SNS topic (pipeline-alerts)
+- ✅ IAM roles (GlueRole, SageMakerRole, LambdaRole)
 
 ---
 
@@ -236,52 +264,28 @@ IMDb-Movie-Analytics/
 
 ### Prerequisites
 ```bash
-# Python environment
 conda create -n imdb-aws python=3.11
 conda activate imdb-aws
 pip install boto3 pandas numpy scikit-learn xgboost pyarrow python-dotenv
-
-# AWS CLI
-aws configure
 ```
 
 ### Environment Variables
 ```bash
-# .env file
+# .env
 AWS_ACCOUNT_ID=your_account_id
 AWS_REGION=us-east-1
 ALERT_EMAIL=your_email@example.com
 ```
 
-### Run Pipeline Manually
-```bash
-# Trigger full pipeline
-aws lambda invoke \
-    --function-name "imdb-pipeline-orchestrator" \
-    --payload '{"source": "manual"}' \
-    /tmp/response.json
-```
-
 ---
 
-## 📝 Resume Bullets
-```
-- Built end-to-end ML pipeline processing 12.3M IMDb records using
-  AWS Glue (PySpark), S3, and Athena achieving 99%+ data quality
+## 🎯 Impact
 
-- Engineered 43 ML features including director reputation metrics
-  extracted from 500MB dataset processed via AWS Glue in cloud
-
-- Trained XGBoost model iterating 4 versions, improving R² from
-  0.306 to 0.664 (117% gain) by identifying director features
-  as key missing signal; validated on SageMaker (RMSE=0.786)
-
-- Deployed real-time SageMaker prediction endpoint (<100ms latency)
-  predicting Schindler's List at 9.11 vs 9.0 actual rating
-
-- Automated pipeline with AWS Lambda + EventBridge (daily 2am UTC),
-  running 3 Glue jobs in sequence with SNS failure alerts
-
-- Monitored pipeline health via CloudWatch dashboards and Grafana
-  Cloud connected to Athena for live analytics
-```
+| # | Metric | What It Shows |
+|---|--------|--------------|
+| 1 | **117% R² improvement** (0.306 → 0.664) | Identified director reputation as missing signal across 4 model iterations |
+| 2 | **97.5% data reduction** (12.3M → 309K) | Quality filtering while maintaining 99%+ completeness on critical fields |
+| 3 | **0 manual interventions** post-deployment | EventBridge + Lambda orchestration with SNS failure alerting |
+| 4 | **10x storage compression** via Parquet | Decade partitioning enables partition pruning on Athena queries |
+| 5 | **±0.11 best prediction error** | Schindler's List predicted 9.11 vs 9.0 actual on live SageMaker endpoint |
+| 6 | **~$1.00 total AWS cost** | Serverless-first architecture (Athena, Lambda, Glue on-demand) |
